@@ -1,0 +1,19 @@
+/* Estilo para preencher a tela inteira */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.full-screen {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+/* Estilo para preencher o conteúdo e flexionar */
+.content {
+  flex: 1;
+  overflow: hidden;
+}
