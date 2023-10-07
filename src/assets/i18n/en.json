@@ -1,0 +1,8 @@
+{
+  "topmenu": ["Portuguese", "English", "About", "Contact"],
+  "menu.home": "Home",
+  "menu.certifications": "Certifications",
+  "menu.technologies": "Technologies",
+  "menu.members": "Members",
+  "menu.achievements": "Achievements"
+}

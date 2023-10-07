@@ -17,3 +17,9 @@ html, body {
   flex: 1;
   overflow: hidden;
 }
+
+::ng-deep .p-splitter-gutter-handle {
+  background-color: #afb3bd;
+  height: 110px;
+}
+

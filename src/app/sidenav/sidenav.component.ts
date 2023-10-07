@@ -21,7 +21,7 @@ export class SidenavComponent implements OnInit {
         for (const entry of entries) {
           const ulElement = entry.target as HTMLElement;
           const ulWidth = ulElement.offsetWidth;
-          const desiredWidth = 300; // Tamanho desejado para ativar a ação
+          const desiredWidth = 200; // Tamanho desejado para ativar a ação
 
           // Imprima a largura atual
           console.log('Largura atual da UL:', ulWidth, 'pixels');

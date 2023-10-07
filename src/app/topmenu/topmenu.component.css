@@ -1,0 +1,21 @@
+::ng-deep .user-icon {
+  background-image: url('/assets/images/img.png'); /* Substitua pelo caminho da sua imagem */
+  background-size: cover;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid white; /* Adicione uma borda branca para destacar a imagem */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Adicione uma sombra suave */
+}
+
+.user-icon:hover {
+  transform: scale(1.1); /* Aumente o tamanho da imagem em hover */
+  transition: transform 0.2s ease-in-out;
+}
+
+::ng-deep .large-icon {
+  font-size: 24px; /* Ajuste o tamanho desejado */
+}

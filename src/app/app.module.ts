@@ -11,11 +11,21 @@ import {ButtonModule} from "primeng/button";
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {SplitterModule} from "primeng/splitter";
 import { SidenavComponent } from './sidenav/sidenav.component';
+import { TopmenuComponent } from './topmenu/topmenu.component';
+import {TranslateModule, TranslateLoader} from '@ngx-translate/core';
+import {TranslateHttpLoader} from '@ngx-translate/http-loader';
+import {HttpClient, HttpClientModule} from "@angular/common/http";
+import {TranslationService} from "./translation.service";
+
+export function HttpLoaderFactory(httpClient: HttpClient) {
+  return new TranslateHttpLoader(httpClient);
+}
 
 @NgModule({
   declarations: [
     AppComponent,
-    SidenavComponent
+    SidenavComponent,
+    TopmenuComponent,
   ],
   imports: [
     BrowserModule,
@@ -27,8 +37,20 @@ import { SidenavComponent } from './sidenav/sidenav.component';
     ButtonModule,
     BrowserAnimationsModule,
     SplitterModule,
+    HttpClientModule,
+    TranslateModule.forRoot({
+      loader: {
+        provide: TranslateLoader,
+        useFactory: HttpLoaderFactory,
+        deps: [HttpClient]
+      }
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+  constructor(private translationService: TranslationService) {
+    this.translationService.initializeApp();
+  }
+}

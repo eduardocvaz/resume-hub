@@ -1,12 +1,13 @@
-
 <div class="full-screen">
   <div class="content">
-    <p-splitter styleClass="mb-5 m-0 h-screen" layout="horizontal" [minSizes]="[10, 50]" [panelSizes]="[25, 75]" (onResizeStart)="sidenav.onResizeStart()" (onResizeEnd)="sidenav.onResizeEnd()">
+    <p-splitter styleClass="mb-5 m-0 h-screen" layout="horizontal" [minSizes]="[8, 50]" [panelSizes]="[20, 80]" (onResizeStart)="sidenav.onResizeStart()" (onResizeEnd)="sidenav.onResizeEnd()">
       <ng-template pTemplate>
         <app-sidenav class="full-screen"></app-sidenav>
       </ng-template>
       <ng-template pTemplate>
-        <div class="col flex align-items-center justify-content-center">Panel 2</div>
+          <app-topmenu class="w-full"></app-topmenu>
+
+        <router-outlet></router-outlet>
       </ng-template>
     </p-splitter>
   </div>
