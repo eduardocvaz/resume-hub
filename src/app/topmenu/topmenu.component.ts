@@ -1,5 +1,6 @@
 import {Component} from '@angular/core';
 import {TranslateService} from '@ngx-translate/core';
+import { environment } from '../../environments/environment';
 
 @Component({
   selector: 'app-topmenu',
@@ -11,10 +12,13 @@ export class TopmenuComponent {
   user: any;
   isDropdownMenuOpen: boolean = false;
   topmenu: string[] = [];
+  imageUrl = environment.imageUrl;
+
 
   constructor(
     private translate: TranslateService,
   ) {
+    this.setDynamicStyle(); // Chama a função para definir o estilo dinamicamente
     this.user = {
       name: 'Eduardo Vaz',
       photoUrl: 'https://avatars.githubusercontent.com/u/61214197'
@@ -58,8 +62,12 @@ export class TopmenuComponent {
     });
 
   }
+  private setDynamicStyle() {
+    // Defina uma classe CSS dinamicamente com a URL da image
+    const styleElement = document.createElement('style');
+    styleElement.textContent = `.user-icon { background-image: url('${this.imageUrl}'); }`;
 
-  toggleDropdownMenu() {
-    this.isDropdownMenuOpen = !this.isDropdownMenuOpen;
+    // Adicione o estilo ao cabeçalho do documento
+    document.head.appendChild(styleElement);
   }
 }

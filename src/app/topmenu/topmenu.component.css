@@ -1,5 +1,4 @@
 ::ng-deep .user-icon {
-  background-image: url('/assets/images/img.png'); /* Substitua pelo caminho da sua imagem */
   background-size: cover;
   width: 32px;
   height: 32px;
