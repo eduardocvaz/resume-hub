@@ -17,6 +17,16 @@ import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import {HttpClient, HttpClientModule} from "@angular/common/http";
 import {TranslationService} from "./translation.service";
 import { environment } from '../environments/environment';
+import { HomeComponent } from './home/home.component';
+import { TechnologiesComponent } from './technologies/technologies.component';
+import { ServicesComponent } from './services/services.component';
+import { CertificationsComponent } from './certifications/certifications.component';
+import { PortfolioComponent } from './portfolio/portfolio.component';
+import { BlogComponent } from './blog/blog.component';
+import { TestimonialsComponent } from './testimonials/testimonials.component';
+import { AchievementsComponent } from './achievements/achievements.component';
+import { AboutComponent } from './about/about.component';
+import { ContactComponent } from './contact/contact.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -27,6 +37,16 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     AppComponent,
     SidenavComponent,
     TopmenuComponent,
+    HomeComponent,
+    TechnologiesComponent,
+    ServicesComponent,
+    CertificationsComponent,
+    PortfolioComponent,
+    BlogComponent,
+    TestimonialsComponent,
+    AchievementsComponent,
+    AboutComponent,
+    ContactComponent,
   ],
   imports: [
     BrowserModule,

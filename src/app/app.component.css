@@ -23,3 +23,15 @@ html, body {
   height: 110px;
 }
 
+.vertical-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Define a altura para preencher a altura da tela inteira (viewport) */
+}
+
+.router-content {
+  flex-grow: 1; /* Isso permite que o router-outlet ocupe o espaço restante verticalmente */
+  overflow-y: auto; /* Adiciona uma barra de rolagem vertical se o conteúdo estiver além da altura da tela */
+}
+
+

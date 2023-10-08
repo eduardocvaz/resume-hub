@@ -1,11 +1,15 @@
-import {Component} from '@angular/core';
+import {Component, Type} from '@angular/core';
 import {TranslateService} from '@ngx-translate/core';
 import { environment } from '../../environments/environment';
+import { DialogService, DynamicDialogRef } from 'primeng/dynamicdialog';
+import {AboutComponent} from "../about/about.component";
+import {ContactComponent} from "../contact/contact.component";
 
 @Component({
   selector: 'app-topmenu',
   templateUrl: './topmenu.component.html',
-  styleUrls: ['./topmenu.component.css']
+  styleUrls: ['./topmenu.component.css'],
+  providers: [DialogService]
 })
 export class TopmenuComponent {
   items: any[] = [];
@@ -13,10 +17,12 @@ export class TopmenuComponent {
   isDropdownMenuOpen: boolean = false;
   topmenu: string[] = [];
   imageUrl = environment.imageUrl;
+  ref: DynamicDialogRef | undefined;
 
 
   constructor(
     private translate: TranslateService,
+    public dialogService: DialogService
   ) {
     this.setDynamicStyle(); // Chama a função para definir o estilo dinamicamente
     this.user = {
@@ -45,11 +51,23 @@ export class TopmenuComponent {
         label: this.user.name,
         icon: 'user-icon',
         items: [
-          {label: this.topmenu[2], icon: 'fa fa-info-circle'},
-          {label: this.topmenu[3], icon: 'fa fa-envelope'}
+          {label: this.topmenu[2], icon: 'fa fa-info-circle', command: () => this.show(AboutComponent, this.topmenu[2])},
+          {label: this.topmenu[3], icon: 'fa fa-envelope', command: () => this.show(ContactComponent, this.topmenu[3])}
         ]
       }
     ];
+  }
+
+
+  show(componentType: Type<any>, header: string) {
+    this.ref = this.dialogService.open(componentType, {
+      header: header,
+      width: '70%',
+      contentStyle: { overflow: 'auto' },
+      baseZIndex: 10000,
+      maximizable: true
+    });
+
   }
 
   changeLanguage(lang: string) {
