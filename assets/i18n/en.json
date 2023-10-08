@@ -4,5 +4,10 @@
   "menu.certifications": "Certifications",
   "menu.technologies": "Technologies",
   "menu.members": "Members",
-  "menu.achievements": "Achievements"
+  "menu.achievements": "Achievements",
+  "menu.services": "Services",
+  "menu.portfolio": "Portfolio",
+  "menu.blog": "Blog",
+  "menu.testimonials": "Testimonials",
+  "menu.clients": "Clients"
 }
