@@ -9,5 +9,16 @@
   "menu.portfolio": "Portfolio",
   "menu.blog": "Blog",
   "menu.testimonials": "Testimonials",
-  "menu.clients": "Clients"
+  "menu.clients": "Clients",
+  "welcome.title": "Welcome to my Resume Hub!",
+  "welcome.intro": "Hello, I'm Eduardo Vaz, and programming is more than a career to me, it's a passion. Since 2017, I've dedicated myself wholeheartedly to software development, finding satisfaction in spending hours refining code and tackling complex challenges.",
+  "welcome.passion": "I have a deep affinity for software development and a genuine passion for programming. To me, coding is more than a task; it's a journey of creativity and problem-solving.",
+  "welcome.pressure": "In addition to being passionate about coding, I have a preference for working under pressure. Pressure is where my skills shine, and my creativity reaches its peak. Intense challenges motivate me to overcome obstacles and deliver exceptional results.",
+  "welcome.excellence": "I believe that excellence in programming is an ongoing pursuit. I follow best practices to create code that is robust, efficient, and maintainable. To me, code is not just a set of instructions but an expression of my experience, competence, and discipline.",
+  "welcome.motivation": "My greatest motivation is the opportunity to solve complex problems and create solutions that make people's lives easier and more efficient. User satisfaction is the greatest reward, as it is proof of successful work.",
+  "welcome.explore": "To explore my journey and achievements, I invite you to explore my Resume Hub.",
+  "welcome.future": "He who is not willing to invest time and overcome failure cannot shape the future.",
+  "technologies.backend": "Backend Technologies",
+  "technologies.frontend": "Mobile Technologies",
+  "technologies.mobile": "Frontend Technologies"
 }

@@ -9,5 +9,16 @@
   "menu.portfolio": "Portfólio",
   "menu.blog": "Blog",
   "menu.testimonials": "Depoimentos",
-  "menu.clients": "Clientes"
+  "menu.clients": "Clientes",
+  "welcome.title": "Bem-vindo ao meu Resume Hub!",
+  "welcome.intro": "Olá, eu sou Eduardo Vaz, e a programação é mais do que uma carreira para mim, é uma paixão. Desde 2017, tenho me dedicado de corpo e alma ao desenvolvimento de software, encontrando satisfação em passar horas aprimorando código e enfrentando desafios complexos.",
+  "welcome.passion": "Tenho uma profunda afinidade com o desenvolvimento de software e uma genuína paixão pela programação. Para mim, programar é mais do que uma tarefa, é uma jornada de criatividade e solução de problemas.",
+  "welcome.pressure": "Além de ser apaixonado por codificação, tenho uma preferência por trabalhar sob pressão. A pressão é onde minhas habilidades se destacam e minha criatividade atinge seu ápice. Desafios intensos me motivam a superar obstáculos e entregar resultados excepcionais.",
+  "welcome.excellence": "Acredito que a excelência em programação é uma busca constante. Sigo as melhores práticas para criar código que seja robusto, eficiente e mantível. Para mim, o código não é apenas um conjunto de instruções, mas uma expressão da minha experiência, competência e disciplina.",
+  "welcome.motivation": "Minha maior motivação é a oportunidade de resolver problemas complexos e criar soluções que tornem a vida das pessoas mais fácil e eficiente. A satisfação dos usuários é a maior recompensa, pois é a prova de um trabalho bem-sucedido.",
+  "welcome.explore": "Para explorar minha jornada e realizações, convido você a explorar meu Resume Hub.",
+  "welcome.future": "Aquele que não está disposto a investir tempo e superar o fracasso não pode moldar o futuro.",
+  "technologies.backend": "Tecnologias de Backend",
+  "technologies.frontend": "Tecnologias Móveis",
+  "technologies.mobile": "Tecnologias de Frontend"
 }
