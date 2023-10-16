@@ -11,6 +11,7 @@ export class SidenavComponent implements OnInit {
   private resizeObserver: ResizeObserver | undefined;
   private isObserving = false;
 
+
   ngOnInit() {
     this.initResizeObserver();
   }

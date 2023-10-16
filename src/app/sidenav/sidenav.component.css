@@ -37,6 +37,7 @@
 .sidebar .menu li {
   display: flex;
   align-items: center;
+
 }
 .menu a i {
   margin-right: 20px; /* Ajuste o valor conforme necessário para o espaçamento desejado */
@@ -49,13 +50,18 @@
   display: none;
 }
 
+/* Estilos quando a classe small-ul é adicionada */
+.sidebar .menu.small-ul li {
+  justify-content: center;
+}
+
 /* Centraliza os ícones e os torna um pouco maiores */
 .sidebar .menu.small-ul li i.fa {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.5rem; /* Ajuste o tamanho desejado */
-  padding-left: 15px;
+  font-size: 1.4vw; /* Ajuste o tamanho desejado */
+  width: 100%; /* Ajuste o tamanho desejado */
 }
 
 

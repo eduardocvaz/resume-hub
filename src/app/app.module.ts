@@ -27,6 +27,9 @@ import { TestimonialsComponent } from './testimonials/testimonials.component';
 import { AchievementsComponent } from './achievements/achievements.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
+import {FieldsetModule} from "primeng/fieldset";
+import {ScrollPanelModule} from "primeng/scrollpanel";
+import {CardModule} from "primeng/card";
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -65,7 +68,10 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
         useFactory: HttpLoaderFactory,
         deps: [HttpClient]
       }
-    })
+    }),
+    FieldsetModule,
+    ScrollPanelModule,
+    CardModule
   ],
   providers: [],
   bootstrap: [AppComponent]

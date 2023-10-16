@@ -24,14 +24,23 @@ html, body {
 }
 
 .vertical-container {
-  display: flex;
-  flex-direction: column;
-  height: 100vh; /* Define a altura para preencher a altura da tela inteira (viewport) */
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*height: 100vh; !* Define a altura para preencher a altura da tela inteira (viewport) *!*/
+  overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo estiver além da altura da tela */
+  overflow-x: hidden; /* Desativa a barra de rolagem horizontal */
 }
 
 .router-content {
-  flex-grow: 1; /* Isso permite que o router-outlet ocupe o espaço restante verticalmente */
-  overflow-y: auto; /* Adiciona uma barra de rolagem vertical se o conteúdo estiver além da altura da tela */
+  /*flex-grow: 1; !* Isso permite que o router-outlet ocupe o espaço restante verticalmente *!*/
+  /*overflow-x: auto; !* Adiciona uma barra de rolagem vertical se o conteúdo estiver além da altura da tela *!*/
+  margin: 8vh 1vw; /* Adiciona um espaçamento ao redor do conteúdo */
+
+}
+
+.app-topmenu-fixed {
+  position: fixed;
+  right: 15px;
 }
 
 
