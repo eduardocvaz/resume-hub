@@ -1,0 +1,8 @@
+::ng-deep .p-card-content {
+  padding-bottom: 0;
+}
+
+.button-right {
+  display: flex;
+  justify-content: flex-end;
+}

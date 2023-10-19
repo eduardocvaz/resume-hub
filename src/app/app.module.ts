@@ -30,6 +30,7 @@ import { ContactComponent } from './contact/contact.component';
 import {FieldsetModule} from "primeng/fieldset";
 import {ScrollPanelModule} from "primeng/scrollpanel";
 import {CardModule} from "primeng/card";
+import {PanelModule} from "primeng/panel";
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -71,7 +72,8 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     }),
     FieldsetModule,
     ScrollPanelModule,
-    CardModule
+    CardModule,
+    PanelModule
   ],
   providers: [],
   bootstrap: [AppComponent]

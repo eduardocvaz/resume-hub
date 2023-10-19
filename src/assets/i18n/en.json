@@ -20,5 +20,9 @@
   "welcome.future": "He who is not willing to invest time and overcome failure cannot shape the future. - Eduardo Vaz",
   "technologies.backend": "Backend Technologies",
   "technologies.frontend": "Mobile Technologies",
-  "technologies.mobile": "Frontend Technologies"
+  "technologies.mobile": "Frontend Technologies",
+  "technologies.intro.myJourney": "Amid the ongoing technological revolution, my journey has been forged through years of unwavering dedication to exploring this captivating universe. ",
+  "technologies.intro.expertise": "Each advancement, every challenge conquered, and every new horizon ventured has shaped the expertise I offer. ",
+  "technologies.intro.keyAreas": "Below, you can glimpse the key areas I've delved into. ",
+  "technologies.intro.exploreButton": "For a more detailed view, click the \"Explore\" button."
 }
