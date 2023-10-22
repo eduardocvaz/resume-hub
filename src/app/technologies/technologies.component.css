@@ -6,3 +6,11 @@
   display: flex;
   justify-content: flex-end;
 }
+
+.center-block {
+  width: 8vw;
+}
+
+.center-block-xl {
+  width: 10vw;
+}
