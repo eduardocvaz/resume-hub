@@ -8,12 +8,16 @@ import { PortfolioComponent } from './portfolio/portfolio.component';
 import { BlogComponent } from './blog/blog.component';
 import { TestimonialsComponent } from './testimonials/testimonials.component';
 import { AchievementsComponent } from './achievements/achievements.component';
+import {EducationComponent} from "./education/education.component";
+import {CareerComponent} from "./career/career.component";
 
 // Defina as rotas
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' }, // Redireciona para a página inicial se nenhuma rota for correspondida
   { path: 'home', component: HomeComponent },
   { path: 'technologies', component: TechnologiesComponent },
+  { path: 'education', component: EducationComponent },
+  { path: 'career', component: CareerComponent },
   { path: 'services', component: ServicesComponent },
   { path: 'certifications', component: CertificationsComponent },
   { path: 'portfolio', component: PortfolioComponent },

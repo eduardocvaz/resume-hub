@@ -1,0 +1,41 @@
+<div class="flex container group">
+  <div class="line flex-shrink-0"></div>
+  <div class="cicle flex-shrink-0 shadow-2 group-hover transition"></div>
+  <div class="entry flex flex-column w-full">
+    <div>
+      <img alt="{{ qualification?.name }}" loading="lazy" width="40" height="40" decoding="async" src="{{ baseUrl + '/assets/images/Technologies/Kotlin-logo.png'}}">
+    </div>
+    <div>
+      <h3>
+        <span>{{ qualification?.name }}</span>
+        <span>{{ qualification?.date }}</span>
+      </h3>
+      <h4>{{ qualification?.degree }}</h4>
+    </div>
+    <div>
+      <div class="flex flex-column w-9" *ngIf="showSummary">
+        <div>
+          <p>{{ qualification?.summary }}</p>
+        </div>
+        <div class="flex flex-column align-items-end">
+          <a href="javascript:void(0)" (click)="toggleFullView()">
+            <i class="fa fa-expand fa-rotate-90"></i> <!-- Ícone de expansão -->
+          </a>
+        </div>
+      </div>
+      <div class="flex flex-column w-9" *ngIf="!showSummary">
+        <div>
+          <p>{{ qualification?.fullContent }}</p>
+        </div>
+        <div class="flex flex-column align-items-end">
+          <a href="javascript:void(0)" (click)="toggleFullView()">
+            <i class="fa fa-compress fa-rotate-90"></i> <!-- Ícone de compressão -->
+          </a>
+        </div>
+      </div>
+    </div>
+    <h5>
+      <span><i class="fa fa-map-marker"></i> {{ qualification?.location }}</span>
+    </h5>
+  </div>
+</div>

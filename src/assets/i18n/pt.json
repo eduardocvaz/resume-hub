@@ -3,6 +3,8 @@
   "menu.home": "Início",
   "menu.certifications": "Certificações",
   "menu.technologies": "Tecnologias",
+  "menu.education": "Educação",
+  "menu.career": "Carreira",
   "menu.members": "Membros",
   "menu.achievements": "Conquistas",
   "menu.services": "Serviços",
@@ -24,6 +26,7 @@
   "technologies.intro.myJourney": "Em meio à contínua revolução tecnológica, minha jornada foi forjada por anos de dedicação incansável na exploração deste fascinante universo.",
   "technologies.intro.expertise": "Cada avanço, cada desafio superado e cada novo horizonte explorado moldaram a experiência que ofereço. ",
   "technologies.intro.keyAreas": "Abaixo, você pode vislumbrar as principais áreas em que mergulhei. ",
-  "technologies.intro.exploreButton": "Para uma visualização mais detalhada, clique no botão \"Explorar\"."
-
+  "technologies.intro.exploreButton": "Para uma visualização mais detalhada, clique no botão \"Explorar\".",
+  "construction.title": "Em Construção",
+  "construction.subtitle": "Estamos trabalhando para melhorar sua experiência."
 }

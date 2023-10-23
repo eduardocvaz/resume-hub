@@ -1,0 +1,30 @@
+.line {
+  background-color: hsla(0,0%,45%,.25);
+  border-top-left-radius: 0.25rem;
+  width: 0.25rem;
+}
+
+.cicle {
+  background-color: hsla(235, 57%, 49%, 0.8);
+  width: 0.75rem;
+  height: 0.75rem;
+  margin-top: 2rem;
+  margin-left: -0.5rem;
+  position: relative;
+  border-radius: 1000px;
+}
+
+.transition {
+  transition-property: width;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 0.25s;
+}
+
+.group:hover .group-hover {
+  width: 1.8rem;
+}
+
+.entry {
+  margin-top: 1.25rem;
+  margin-left: 2rem;
+}

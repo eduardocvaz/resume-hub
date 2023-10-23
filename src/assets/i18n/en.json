@@ -3,6 +3,8 @@
   "menu.home": "Home",
   "menu.certifications": "Certifications",
   "menu.technologies": "Technologies",
+  "menu.education": "Education",
+  "menu.career": "Career",
   "menu.members": "Members",
   "menu.achievements": "Achievements",
   "menu.services": "Services",
@@ -24,5 +26,7 @@
   "technologies.intro.myJourney": "Amid the ongoing technological revolution, my journey has been forged through years of unwavering dedication to exploring this captivating universe. ",
   "technologies.intro.expertise": "Each advancement, every challenge conquered, and every new horizon ventured has shaped the expertise I offer. ",
   "technologies.intro.keyAreas": "Below, you can glimpse the key areas I've delved into. ",
-  "technologies.intro.exploreButton": "For a more detailed view, click the \"Explore\" button."
+  "technologies.intro.exploreButton": "For a more detailed view, click the \"Explore\" button.",
+  "construction.title": "Under Construction",
+  "construction.subtitle": "We are working to improve your experience."
 }

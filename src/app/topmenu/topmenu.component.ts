@@ -67,7 +67,6 @@ export class TopmenuComponent {
       baseZIndex: 10000,
       maximizable: true
     });
-
   }
 
   changeLanguage(lang: string) {

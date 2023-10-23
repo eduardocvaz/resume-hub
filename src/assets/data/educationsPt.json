@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Dayananda Sagar College of Engineering",
+    "date": "2015 - 2018",
+    "degree": "Bachelor's Degree, Computer Science & Engineering",
+    "location": "Bangalore, India",
+    "summary": "Resumo da experiência 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "fullContent": "Conteúdo completo da experiência 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+  },
+  {
+    "name": "Example University",
+    "date": "2010 - 2015",
+    "degree": "Master's Degree, Computer Science",
+    "location": "Sample City, USA",
+    "summary": "Resumo da experiência 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "fullContent": "Conteúdo completo da experiência 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+  }
+]

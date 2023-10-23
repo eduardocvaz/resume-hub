@@ -31,6 +31,12 @@ import {FieldsetModule} from "primeng/fieldset";
 import {ScrollPanelModule} from "primeng/scrollpanel";
 import {CardModule} from "primeng/card";
 import {PanelModule} from "primeng/panel";
+import { ExploreComponent } from './technologies/explore/explore.component';
+import { ConstructionPageComponent } from './utils/construction-page/construction-page.component';
+import { EducationComponent } from './education/education.component';
+import { CareerComponent } from './career/career.component';
+import { QualificationEntryComponent } from './utils/qualification-entry/qualification-entry.component';
+import { CommonModule } from '@angular/common';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -51,6 +57,11 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     AchievementsComponent,
     AboutComponent,
     ContactComponent,
+    ExploreComponent,
+    ConstructionPageComponent,
+    EducationComponent,
+    CareerComponent,
+    QualificationEntryComponent,
   ],
   imports: [
     BrowserModule,
@@ -73,7 +84,8 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     FieldsetModule,
     ScrollPanelModule,
     CardModule,
-    PanelModule
+    PanelModule,
+    CommonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
