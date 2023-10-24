@@ -17,4 +17,5 @@ export class QualificationEntryComponent {
   toggleFullView() {
     this.showSummary = !this.showSummary;
   }
+
 }

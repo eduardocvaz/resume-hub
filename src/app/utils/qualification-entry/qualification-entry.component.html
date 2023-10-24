@@ -3,19 +3,26 @@
   <div class="cicle flex-shrink-0 shadow-2 group-hover transition"></div>
   <div class="entry flex flex-column w-full">
     <div>
-      <img alt="{{ qualification?.name }}" loading="lazy" width="40" height="40" decoding="async" src="{{ baseUrl + '/assets/images/Technologies/Kotlin-logo.png'}}">
-    </div>
-    <div>
-      <h3>
+      <div>
+        <img alt="{{ qualification?.name }}" loading="lazy" height="50" decoding="async" src="{{ baseUrl + qualification?.imageURL}}">
+      </div>
+      <h3 class="mb-2">
         <span>{{ qualification?.name }}</span>
-        <span>{{ qualification?.date }}</span>
+        <a class="meu-link-estilizado" *ngIf="!!qualification?.link && !!qualification?.linkName" href="{{ qualification?.link }}" target="_blank" rel="noopener noreferrer">
+          {{ qualification?.linkName }}
+          <i class="fa fa-external-link"></i>
+        </a>
       </h3>
-      <h4>{{ qualification?.degree }}</h4>
+      <h4 class="m-1">
+        <span>{{ qualification?.degree }}</span>
+        <span>{{ qualification?.date }}</span>
+      </h4>
     </div>
     <div>
+      <h4 class="m-1">{{ 'qualification.summary' | translate }}</h4>
       <div class="flex flex-column w-9" *ngIf="showSummary">
         <div>
-          <p>{{ qualification?.summary }}</p>
+          <p class="m-1">{{ qualification?.summary }}</p>
         </div>
         <div class="flex flex-column align-items-end">
           <a href="javascript:void(0)" (click)="toggleFullView()">
@@ -23,9 +30,17 @@
           </a>
         </div>
       </div>
-      <div class="flex flex-column w-9" *ngIf="!showSummary">
-        <div>
-          <p>{{ qualification?.fullContent }}</p>
+      <div class="flex flex-column w-11" *ngIf="!showSummary">
+        <div *ngFor="let paragraph of qualification?.fullContent">
+          <p class="mb-0 mt-1">{{ paragraph }}</p>
+        </div>
+        <div *ngIf="!!qualification?.fullContentLi" >
+          <ul>
+            <li *ngFor="let li of qualification?.fullContentLi">
+              <strong>{{ li[0] }}</strong>
+              <p>{{ li[1] }}</p>
+            </li>
+          </ul>
         </div>
         <div class="flex flex-column align-items-end">
           <a href="javascript:void(0)" (click)="toggleFullView()">
@@ -34,7 +49,7 @@
         </div>
       </div>
     </div>
-    <h5>
+    <h5 class="m-1">
       <span><i class="fa fa-map-marker"></i> {{ qualification?.location }}</span>
     </h5>
   </div>

@@ -37,6 +37,7 @@ import { EducationComponent } from './education/education.component';
 import { CareerComponent } from './career/career.component';
 import { QualificationEntryComponent } from './utils/qualification-entry/qualification-entry.component';
 import { CommonModule } from '@angular/common';
+import { LanguageService } from './language.service';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -87,7 +88,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     PanelModule,
     CommonModule
   ],
-  providers: [],
+  providers: [LanguageService],
   bootstrap: [AppComponent]
 })
 export class AppModule {

@@ -28,3 +28,50 @@
   margin-top: 1.25rem;
   margin-left: 2rem;
 }
+
+
+/* Estilo para a lista não ordenada (ul) */
+ul {
+  list-style-type: none; /* Remove os marcadores padrão das listas */
+  padding: 0; /* Remove o espaçamento interno padrão */
+}
+
+/* Estilo para os itens de lista (li) */
+li {
+  margin-bottom: 10px; /* Adiciona um espaçamento entre os itens da lista */
+  border-left: 4px solid #55595b; /* Adiciona uma borda colorida à esquerda */
+  padding: 10px; /* Adiciona um preenchimento interno */
+  background-color: #f0f0f0; /* Cor de fundo suave */
+  border-radius: 0.25rem;
+}
+
+/* Estilo para os títulos (strong) dentro dos itens de lista */
+li strong {
+  font-weight: bold; /* Torna o texto em negrito */
+  color: #183142; /* Define a cor do título */
+}
+
+/* Estilo para o conteúdo dos itens de lista */
+li p {
+  margin: 2px 0; /* Adiciona um espaçamento entre o título e o conteúdo */
+  color: #333; /* Define a cor do texto */
+}
+
+.meu-link-estilizado {
+  color: #ffffff; /* Cor do texto */
+  text-decoration: none; /* Remove sublinhado */
+  margin: 5px;
+  padding: 5px 10px; /* Mais espaço em torno do texto */
+  background-color: #969191; /* Cor de fundo */
+  border-radius: 0.5rem; /* Borda arredondada */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  transition: background-color 0.3s, color 0.3s; /* Transição suave de cores */
+  font-size: 0.90rem;
+}
+
+.meu-link-estilizado:hover {
+  background-color: #FF6364; /* Cor de fundo ao passar o mouse */
+  color: #fff; /* Cor do texto ao passar o mouse */
+}
+
+

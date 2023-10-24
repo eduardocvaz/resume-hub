@@ -4,12 +4,15 @@ import { environment } from '../../environments/environment';
 import { DialogService, DynamicDialogRef } from 'primeng/dynamicdialog';
 import {AboutComponent} from "../about/about.component";
 import {ContactComponent} from "../contact/contact.component";
+import {LanguageService} from "../language.service";
 
 @Component({
   selector: 'app-topmenu',
   templateUrl: './topmenu.component.html',
   styleUrls: ['./topmenu.component.css'],
-  providers: [DialogService]
+  providers: [
+    DialogService,
+  ]
 })
 export class TopmenuComponent {
   items: any[] = [];
@@ -22,7 +25,8 @@ export class TopmenuComponent {
 
   constructor(
     private translate: TranslateService,
-    public dialogService: DialogService
+    public dialogService: DialogService,
+    private languageService: LanguageService
   ) {
     this.setDynamicStyle(); // Chama a função para definir o estilo dinamicamente
     this.user = {
@@ -78,6 +82,8 @@ export class TopmenuComponent {
       this.items[1].items[1].label = res[3];
     });
 
+    // Notifique o serviço sobre a alteração do idioma
+    this.languageService.changeLanguage(lang);
   }
   private setDynamicStyle() {
     // Defina uma classe CSS dinamicamente com a URL da image

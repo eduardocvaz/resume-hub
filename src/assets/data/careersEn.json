@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SuperProf Platform",
+    "link": "https://www.superprof.com.br/ola-sou-eduardo-atualmente-curso-engenharia-software-ufrn-trabalho-atualmente-como-desenvolvedor-software-uma-empresa.html",
+    "linkName": "My Profile",
+    "date": "2022 - Present",
+    "degree": "Programming Instructor",
+    "location": "Remote - PT/EN",
+    "summary": "As a Programming Instructor on the SuperProf Platform, I have acquired and enhanced crucial teaching and communication skills. My role involved instructing students of various levels and backgrounds, including different states and countries. Additionally, I had the opportunity to explore a variety of programming technologies and develop essential skills, such as assertive communication, direct negotiation with clients, and adaptable pedagogy.",
+    "fullContent": [
+      "As a Programming Instructor on the SuperProf Platform, I have acquired and enhanced crucial teaching and communication skills. My role involved instructing students of various levels and backgrounds, including different states and countries. Additionally, I had the opportunity to explore a variety of programming technologies and develop essential skills, such as assertive communication, direct negotiation with clients, and adaptable pedagogy.",
+      "Key Skills Developed:"
+    ],
+    "fullContentLi": [
+      ["Communication and Interpersonal Skills:",
+        "The ability for clear and effective communication acquired in teaching is equally valuable in programming, where collaboration with colleagues, understanding client requirements, and explaining solutions are essential."],
+      ["Teaching and Explaining Complex Concepts:",
+        "The experience of explaining complex concepts in a simple and understandable way, gained in teaching, is valuable when explaining code to colleagues and clients in software development."],
+      ["Patience and Empathy:",
+        "The ability to handle challenges in teaching, developing patience and empathy, is useful when working in a team or dealing with complex problems in software development."],
+      ["Deep Knowledge of Programming:",
+        "A solid understanding of programming languages, algorithms, and paradigms, acquired as an instructor, is directly applicable to software development to create effective solutions."],
+      ["Problem-Solving Skills:",
+        "The ability to identify and solve problems, acquired in teaching, is fundamental in programming, where analysis, solution development, and debugging are essential."],
+      ["Adaptation to Different Audiences:",
+        "The ability to adapt your teaching style to different students is valuable when working with multidisciplinary teams or on projects with diverse stakeholders."],
+      ["Time Management and Organization:",
+        "Time management and organization developed while balancing teaching with other responsibilities are crucial for meeting deadlines and managing software projects."],
+      ["Continuous Learning:",
+        "The commitment to continuous learning, necessary in programming education, is a valuable quality for a software developer, where technology is constantly evolving."],
+      ["Feedback and Continuous Improvement:",
+        "The practice of receiving feedback from students and adjusting the teaching approach applies to software development, where continuous improvement is essential."]
+    ],
+    "imageURL": "/assets/images/Institutions/superprof.png"
+  },
+  {
+    "name": "Quark Tecnologia - QuarkClinic",
+    "date": "2021 - 2022",
+    "degree": "FullStack Developer - Internship",
+    "location": "Natal, Rio Grande do Norte, Brazil",
+    "summary": "As a FullStack intern at Quark Tecnologia, I worked on the QuarkClinic platform, involving various projects that encompassed technologies like Angular, Vue.js, Spring, Groovy, and Kotlin. My responsibilities included troubleshooting in production, internal validation, feature enhancement, and code refactoring.",
+    "fullContent": [
+      "As a FullStack intern at Quark Tecnologia, I worked on the QuarkClinic platform, involving various projects that encompassed technologies like Angular, Vue.js, Spring, Groovy, and Kotlin. My responsibilities included troubleshooting in production, internal validation, feature enhancement, and code refactoring.",
+      "During this period, I developed key skills:"
+    ],
+    "fullContentLi": [
+      ["Practical Experience in Software Development", "Working on real projects solidified my theoretical knowledge and improved my practical skills."],
+      ["Broad Exposure to Various Technologies", "Working with Angular, Vue.js, Spring, Groovy, and Kotlin expanded my understanding of modern technologies."],
+      ["Problem-Solving and Debugging Skills", "Troubleshooting in production and internal validation enhanced my ability to identify and solve problems effectively."],
+      ["Teamwork and Agile Methodologies", "I collaborated in a team, participating in agile meetings like Scrum and Kanban, strengthening my collaborative work skills."],
+      ["Experience in Data Migrations and Integration", "Dealing with client migrations and various data sources provided valuable insights into system integration."],
+      ["Knowledge of Various Databases", "I gained experience in managing databases with different structures and providers, including SQL Server, PostgreSQL, MySQL, and SQLite."],
+      ["Understanding of the Healthcare Industry and Its Challenges", "Working at QuarkClinic gave me insight into the healthcare industry and its specific demands."],
+      ["Commitment to Continuous Learning", "I maintain a continuous commitment to learning and improvement to keep up with technological changes."]
+    ],
+    "imageURL": "/assets/images/Institutions/quark.png"
+  },
+  {
+    "name": "Center for Biosciences - UFRN",
+    "date": "2018 - 2021",
+    "degree": "Technical Support Scholar",
+    "location": "Natal, Rio Grande do Norte, Brazil",
+    "summary": "As a technical support scholar at the Center for Biosciences, I developed technical skills in computer and operating system maintenance, enhancing problem-solving and communication. I learned time management, accurate documentation, and teamwork to ensure the efficient operation of systems and equipment.",
+    "fullContent": [
+      "During my journey as a technical support scholar at the Center for Biosciences, I developed solid technical skills, including computer maintenance and knowledge of operating systems.",
+      "Additionally, I improved my problem-solving and communication skills, providing on-site and remote technical support.",
+      "My experience taught me the importance of time management, accurate documentation, and compliance with standards.",
+      "Working as a team to ensure the proper operation of systems and equipment was crucial, as was the ability to perform preventive and corrective maintenance.",
+      "I look forward to applying these acquired skills to new professional challenges and continuing to contribute to the advancement of science and technology."
+    ],
+    "fullContentLi": [],
+    "imageURL": "/assets/images/Institutions/cb.png"
+  }
+]

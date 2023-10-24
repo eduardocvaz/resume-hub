@@ -1,0 +1,25 @@
+/*!* Estilo para a lista não ordenada (ul) *!*/
+/*::ng-deep app-qualification-entry ul {*/
+/*  list-style-type: none; !* Remove os marcadores padrão das listas *!*/
+/*  padding: 0; !* Remove o espaçamento interno padrão *!*/
+/*}*/
+
+/*!* Estilo para os itens de lista (li) *!*/
+/*::ng-deep app-qualification-entry ul {*/
+/*  border-left: 4px solid #55595b; !* Adiciona uma borda colorida à esquerda *!*/
+/*  padding: 10px; !* Adiciona um preenchimento interno *!*/
+/*  background-color: #f0f0f0; !* Cor de fundo suave *!*/
+/*  border-radius: 0.25rem;*/
+/*}*/
+
+/*!* Estilo para os títulos (strong) dentro dos itens de lista *!*/
+/*::ng-deep app-qualification-entry li strong {*/
+/*  font-weight: bold; !* Torna o texto em negrito *!*/
+/*  color: #183142; !* Define a cor do título *!*/
+/*}*/
+
+/*!* Estilo para o conteúdo dos itens de lista *!*/
+/*app-qualification-entry li p {*/
+/*  margin: 1px 0; !* Adiciona um espaçamento entre o título e o conteúdo *!*/
+/*  color: #333; !* Define a cor do texto *!*/
+/*}*/

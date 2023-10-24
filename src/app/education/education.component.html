@@ -1,3 +1,13 @@
+<div class="mb-4">
+  <p-fieldset legend="{{ 'education.intro.title' | translate }}" styleClass="shadow-6">
+    <div>
+      <span>{{ 'education.intro.myJourney' | translate }}</span>
+      <span>{{ 'education.intro.myJourneyCont' | translate }}</span>
+      <span>{{ 'education.intro.keyAreas' | translate }}</span>
+      <span>{{ 'education.intro.exploreButton' | translate }}</span>
+    </div>
+  </p-fieldset>
+</div>
 <p-card>
   <div *ngFor="let qualification of qualifications">
     <app-qualification-entry [qualification]="qualification"></app-qualification-entry>

@@ -27,6 +27,20 @@
   "technologies.intro.expertise": "Cada avanço, cada desafio superado e cada novo horizonte explorado moldaram a experiência que ofereço. ",
   "technologies.intro.keyAreas": "Abaixo, você pode vislumbrar as principais áreas em que mergulhei. ",
   "technologies.intro.exploreButton": "Para uma visualização mais detalhada, clique no botão \"Explorar\".",
+  "technologies.intro.title": "Tecnologias",
+  "technologies.programming_languages": "Linguagens de Programação e Consulta",
+  "technologies.frameworks_libraries": "Frameworks e Bibliotecas",
+  "technologies.programming_paradigms": "Paradigmas de Programação",
+  "technologies.web_technologies": "Tecnologias Web",
+  "technologies.databases": "Bancos de Dados",
+  "technologies.devops": "DevOps",
+  "education.intro.title": "Formação Acadêmica",
+  "education.intro.myJourney": "Meu entusiasmo pela tecnologia não teve início durante a minha graduação, mas foi nesse período que fui imerso em um mundo de desafios. ",
+  "education.intro.myJourneyCont": "Sem dúvida, isso não apenas alterou a minha visão do mundo, mas também moldou minha evolução como ser humano. Através de cada etapa, superação de desafios e descobertas que realizei, forjou-se o conhecimento que estou ansioso para compartilhar. ",
+  "education.intro.keyAreas": "Abaixo, você encontrará as trilhas que percorri. ",
+  "education.intro.exploreButton": "Para uma visualização mais detalhada, clique no ícone de \"Expandir\". ",
+  "career.intro.title": "Carreira Profissional",
   "construction.title": "Em Construção",
-  "construction.subtitle": "Estamos trabalhando para melhorar sua experiência."
+  "construction.subtitle": "Estamos trabalhando para melhorar sua experiência.",
+  "qualification.summary": "Resumo da experiência:"
 }

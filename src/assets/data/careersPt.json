@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Plataforma SuperProf",
+    "link": "https://www.superprof.com.br/ola-sou-eduardo-atualmente-curso-engenharia-software-ufrn-trabalho-atualmente-como-desenvolvedor-software-uma-empresa.html",
+    "linkName": "Meu Perfil",
+    "date": " 2022 - atualmente",
+    "degree": "Professor de Programação",
+    "location": "Remoto - PT/EN",
+    "summary": "Como Professor de Programação na Plataforma Superprof, adquiri e aprimorei habilidades cruciais de ensino e comunicação. Minha função envolveu a instrução de alunos de diversos níveis e origens, incluindo diferentes estados e países. Além disso, tive a oportunidade de explorar uma variedade de tecnologias de programação e desenvolver habilidades essenciais, como a comunicação assertiva, negociação direta com clientes e uma didática adaptável.",
+    "fullContent": [
+      "Como Professor de Programação na Plataforma Superprof, adquiri e aprimorei habilidades cruciais de ensino e comunicação. Minha função envolveu a instrução de alunos de diversos níveis e origens, incluindo diferentes estados e países. Além disso, tive a oportunidade de explorar uma variedade de tecnologias de programação e desenvolver habilidades essenciais, como a comunicação assertiva, negociação direta com clientes e uma didática adaptável.",
+      "Principais Competências Desenvolvidas:"
+    ],
+    "fullContentLi": [
+      ["Comunicação e Habilidades Interpessoais:",
+        "A capacidade de comunicação clara e eficaz, adquirida no ensino, é igualmente valiosa na programação, onde a colaboração com colegas, a compreensão de requisitos do cliente e a explicação de soluções são essenciais."],
+      ["Ensino e Explicação de Conceitos Complexos:",
+        "A experiência em explicar conceitos complexos de forma simples e compreensível, adquirida no ensino, é valiosa ao explicar código a colegas e clientes no desenvolvimento de software."],
+      ["Paciência e Empatia:",
+        "A habilidade de lidar com desafios no ensino, desenvolvendo paciência e empatia, é útil ao trabalhar em equipe ou ao enfrentar problemas complexos no desenvolvimento de software."],
+      ["Conhecimento Profundo da Programação:",
+        "A sólida compreensão das linguagens de programação, algoritmos e paradigmas, adquirida como professor, é diretamente aplicável ao desenvolvimento de software para criar soluções eficazes."],
+      ["Habilidade de Solução de Problemas:",
+        "A capacidade de identificar e resolver problemas, adquirida no ensino, é fundamental na programação, onde a análise, o desenvolvimento de soluções e a depuração são essenciais."],
+      ["Adaptação a Diferentes Públicos:",
+        "A habilidade de adaptar seu estilo de ensino para diferentes alunos é valiosa ao trabalhar com equipes multidisciplinares ou em projetos com partes interessadas diversas."],
+      ["Gerenciamento de Tempo e Organização:",
+        "A gestão do tempo e organização, desenvolvidas ao equilibrar o ensino com outras responsabilidades, são cruciais para cumprir prazos e gerenciar projetos de software."],
+      ["Aprendizado Contínuo:",
+        "O compromisso com o aprendizado contínuo, necessário no ensino de programação, é uma qualidade valiosa para um desenvolvedor de software, onde a tecnologia está em constante evolução."],
+      ["Feedback e Melhoria Contínua:",
+        "A prática de receber feedback de alunos e ajustar a abordagem de ensino se aplica ao desenvolvimento de software, onde a melhoria contínua é essencial."]
+    ],
+    "imageURL": "/assets/images/Institutions/superprof.png"
+  },
+  {
+    "name": "Quark Tecnologia - QuarkClinic",
+    "date": " 2021 - 2022",
+    "degree": "Desenvolvedor FullStack - Estágio",
+    "location": "Natal, Rio Grande do Norte, Brasil",
+    "summary": "Como estagiário FullStack na Quark Tecnologia, atuei na plataforma QuarkClinic, envolvendo diversos projetos que abarcavam tecnologias como Angular, Vue.js, Spring, Groovy e Kotlin. Minhas responsabilidades englobaram resolução de problemas em produção, validação interna, aprimoramento de funcionalidades e refatoração de códigos.",
+    "fullContent": [
+      "Como estagiário FullStack na Quark Tecnologia, atuei na plataforma QuarkClinic, envolvendo diversos projetos que abarcavam tecnologias como Angular, Vue.js, Spring, Groovy e Kotlin. Minhas responsabilidades englobaram resolução de problemas em produção, validação interna, aprimoramento de funcionalidades e refatoração de códigos.",
+      "Neste período, desenvolvi habilidades-chave:"
+    ],
+    "fullContentLi": [
+      ["Experiência prática em desenvolvimento de software", "Trabalhar em projetos reais consolidou meus conhecimentos teóricos e aprimorou minhas habilidades práticas."],
+      ["Ampla exposição a diversas tecnologias", "Trabalhar com Angular, Vue.js, Spring, Groovy e Kotlin ampliou minha compreensão das tecnologias modernas."],
+      ["Habilidade na resolução de problemas e debugging", "A resolução de erros em produção e validação interna aprimorou minha capacidade de identificar e solucionar problemas de forma eficaz."],
+      ["Trabalho em equipe e metodologias ágeis", "Colaborei em equipe, participando de reuniões ágeis, como Scrum e Kanban, fortalecendo minha habilidade de trabalho colaborativo."],
+      ["Experiência em migrações e integração de dados", "Lidar com migrações de clientes e fontes de dados diversas proporcionou valiosos insights em integração de sistemas."],
+      ["Conhecimento em bancos de dados variados", "Ganhei experiência em gerenciar bancos de dados com diferentes estruturas e fornecedores, incluindo SQL Server, PostgreSQL, MySQL e SQLite."],
+      ["Compreensão da indústria de saúde e seus desafios", "Trabalhar na QuarkClinic me deu uma visão da indústria de saúde e de suas demandas específicas."],
+      ["Comprometimento com o aprendizado contínuo", "Mantenho um compromisso contínuo de aprendizado e aprimoramento para acompanhar as mudanças na tecnologia."]
+    ],
+    "imageURL": "/assets/images/Institutions/quark.png"
+  },
+  {
+    "name": "Centro de Biociências - UFRN",
+    "date": " 2018 - 2021",
+    "degree": "Bolsista de Apoio Técnico",
+    "location": "Natal, Rio Grande do Norte, Brasil",
+    "summary": "Como bolsista no Centro de Biociências, desenvolvi habilidades técnicas em manutenção de computadores e sistemas operacionais, aprimorando resolução de problemas e comunicação. Aprendi gestão de tempo, documentação e trabalho em equipe para garantir a operação eficiente de sistemas e equipamentos.",
+    "fullContent": [
+      "Durante minha jornada como bolsista de apoio técnico no Centro de Biociências, desenvolvi habilidades técnicas sólidas, incluindo manutenção de computadores e conhecimento em sistemas operacionais.",
+      "Além disso, aprimorei minhas habilidades de resolução de problemas e comunicação, fornecendo suporte técnico presencial e remoto.",
+      "Minha experiência me ensinou a importância da gestão de tempo, documentação precisa e conformidade com normas.",
+      "Trabalhar em equipe para garantir o funcionamento adequado de sistemas e equipamentos foi fundamental, assim como a capacidade de executar manutenção preventiva e corretiva.",
+      "Estou ansioso para aplicar essas habilidades adquiridas em novos desafios profissionais e continuar contribuindo para o avanço da ciência e tecnologia."
+    ],
+    "fullContentLi": [],
+    "imageURL": "/assets/images/Institutions/cb.png"
+  }
+
+]
