@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Universidade Federal do Rio Grande do Norte",
+    "date": " 2023 - 2024",
+    "degree": "Pós-graduação - Residência em Tecnologia da Informação",
+    "location": "Natal/RN - Recife/PE, Brasil",
+    "summary": "Este programa de residência, oferecido em parceria com o Tribunal Regional Federal da 5ª Região, tem como objetivo proporcionar uma experiência prática enriquecedora em Tecnologia da Informação e Desenvolvimento de Software. Os participantes passam por um programa rigoroso que abrange tópicos avançados e aplicados em tecnologia e software.",
+    "fullContent": [
+      "Este programa de residência, oferecido em parceria com o Tribunal Regional Federal da 5ª Região, tem como objetivo proporcionar uma experiência prática enriquecedora em Tecnologia da Informação e Desenvolvimento de Software.",
+      "",
+      "Durante o programa, os participantes se envolvem em tópicos avançados, incluindo:"
+    ],
+    "fullContentLi": [
+      ["Princípios de Legislação e Ética Aplicados à Tecnologia da Informação", ""],
+      ["Estudos da Estrutura do Poder Judiciário e Suas Tecnologias", ""],
+      ["Inovação Tecnológica: Processos e Avaliação de Impacto", ""],
+      ["Gestão de Projetos", ""],
+      ["Banco de Dados", ""],
+      ["Design e Avaliação de Experiência do Usuário", ""],
+      ["Engenharia de Requisitos Aplicada", ""],
+      ["Arquitetura e Projeto de Software", ""],
+      ["Desenvolvimento Web", ""],
+      ["Desenvolvimento para Dispositivos Móveis", ""],
+      ["Gerência de Configuração e Teste de Software", ""],
+      ["DevOps", ""]
+    ],
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  },
+  {
+    "name": "Universidade Federal do Rio Grande do Norte",
+    "date": " 2023 - 2025",
+    "degree": "Bacharelado, Engenharia de Software",
+    "location": "Natal/RN, Brasil",
+    "summary": "Este curso altamente especializado visa preparar os alunos para o mercado de trabalho, fornecendo uma sólida formação em matemática e programação. Abrange conceitos essenciais para estabelecer uma base robusta, equipando os alunos para enfrentar os desafios do desenvolvimento de software e ter sucesso em suas carreiras.",
+    "fullContent": [
+      "Este curso altamente especializado visa preparar os alunos para o mercado de trabalho, fornecendo uma sólida formação em matemática e programação. Abrange conceitos essenciais para estabelecer uma base robusta, equipando os alunos para enfrentar os desafios do desenvolvimento de software e ter sucesso em suas carreiras.",
+      "",
+      "Durante o curso, os alunos adquirem conhecimentos abrangentes em diversas áreas, incluindo:"
+    ],
+    "fullContentLi": [
+      ["Design de Interfaces de Usuário", ""],
+      ["Desenvolvimento Web (Nível I e II)", ""],
+      ["Teoria de Grafos", ""],
+      ["Lógica na Engenharia de Software", ""],
+      ["Programação Concorrente", ""],
+      ["Engenharia de Linguagens de Programação", ""],
+      ["Métodos Formais em Engenharia de Software", ""],
+      ["Desenvolvimento de Sistemas Distribuídos", ""],
+      ["Engenharia de Requisitos", ""],
+      ["Testes de Software Avançados", ""],
+      ["Arquitetura de Software", ""],
+      ["Gerenciamento de Configuração e Mudanças", ""]
+    ],
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  },
+  {
+    "name": "Universidade Federal do Rio Grande do Norte",
+    "date": " 2017 - 2022",
+    "degree": "Bacharelado, Tecnologia da Informação",
+    "location": "Natal/RN, Brasil",
+    "summary": "O curso tem como objetivo fornecer uma sólida formação em matemática e programação aos alunos, abrangendo todos os conceitos essenciais para estabelecer uma base robusta, preparando-os tanto para ingressar no mercado de trabalho quanto para seguir carreiras acadêmicas de sucesso.",
+    "fullContent": [
+      "O curso tem como objetivo fornecer uma sólida formação em matemática e programação aos alunos, abrangendo todos os conceitos essenciais para estabelecer uma base robusta, preparando-os tanto para ingressar no mercado de trabalho quanto para seguir carreiras acadêmicas de sucesso.",
+      " ",
+      "Durante o curso, os alunos adquirem conhecimentos abrangentes em diversas áreas, incluindo:"
+    ],
+    "fullContentLi": [
+      ["Princípios Matemáticos", ""],
+      ["Probabilidade", ""],
+      ["Estrutura de Dados", ""],
+      ["Arquitetura de Computadores", ""],
+      ["Diversas Linguagens de Programação", ""],
+      ["Padrões de Projetos", ""],
+      ["Gerenciamento de Projetos", ""],
+      ["Banco de Dados", ""],
+      ["Teste de Software", ""],
+      ["Computação Paralela", ""],
+      ["Modelagem UML", ""],
+      ["Sistemas Operacionais", ""],
+      ["Redes de Computadores", ""],
+      ["Ciência de Dados", ""]
+    ],
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  }
+
+]

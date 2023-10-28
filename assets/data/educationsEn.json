@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Federal University of Rio Grande do Norte",
+    "date": " 2023 - 2024",
+    "degree": "Postgraduate - Information Technology Residency",
+    "location": "Natal/RN - Recife/PE, Brazil",
+    "summary": "This residency program, offered in partnership with the Regional Federal Court of the 5th Region, aims to provide an enriching practical experience in Information Technology and Software Development. Participants go through a rigorous program that covers advanced and applied topics in technology and software.",
+    "fullContent": [
+      "This residency program, offered in partnership with the Regional Federal Court of the 5th Region, aims to provide an enriching practical experience in Information Technology and Software Development.",
+      "",
+      "During the program, participants engage in advanced topics, including:"
+    ],
+    "fullContentLi": [
+      ["Principles of Legislation and Ethics Applied to Information Technology", ""],
+      ["Studies of the Structure of the Judiciary and Its Technologies", ""],
+      ["Technological Innovation: Processes and Impact Assessment", ""],
+      ["Project Management", ""],
+      ["Database", ""],
+      ["User Experience Design and Evaluation", ""],
+      ["Applied Requirements Engineering", ""],
+      ["Software Architecture and Design", ""],
+      ["Web Development", ""],
+      ["Mobile Development", ""],
+      ["Software Configuration Management and Testing", ""],
+      ["DevOps", ""]
+    ]
+  ,
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  },
+  {
+    "name": "Federal University of Rio Grande do Norte",
+    "date": " 2023 - 2025",
+    "degree": "Bachelor's, Software Engineering",
+    "location": "Natal/RN, Brazil",
+    "summary": "This highly specialized program aims to prepare students for the job market by providing a strong foundation in mathematics and programming. It covers essential concepts to establish a solid base, equipping students to tackle software development challenges and succeed in their careers.",
+    "fullContent": [
+      "This highly specialized program aims to prepare students for the job market by providing a strong foundation in mathematics and programming. It covers essential concepts to establish a solid base, equipping students to tackle software development challenges and succeed in their careers.",
+      "",
+      "During the program, students gain comprehensive knowledge in various areas, including:"
+    ],
+    "fullContentLi": [
+      ["User Interface Design", ""],
+      ["Web Development (Level I and II)", ""],
+      ["Graph Theory", ""],
+      ["Logic in Software Engineering", ""],
+      ["Concurrent Programming", ""],
+      ["Programming Language Engineering", ""],
+      ["Formal Methods in Software Engineering", ""],
+      ["Distributed Systems Development", ""],
+      ["Requirements Engineering", ""],
+      ["Advanced Software Testing", ""],
+      ["Software Architecture", ""],
+      ["Configuration and Change Management", ""]
+    ],
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  },
+  {
+    "name": "Federal University of Rio Grande do Norte",
+    "date": " 2017 - 2022",
+    "degree": "Bachelor's, Information Technology",
+    "location": "Natal/RN, Brazil",
+    "summary": "The program aims to provide a strong foundation in mathematics and programming, covering all essential concepts to establish a robust base, preparing students for both the job market and successful academic careers.",
+    "fullContent": [
+      "The program aims to provide a strong foundation in mathematics and programming, covering all essential concepts to establish a robust base, preparing students for both the job market and successful academic careers.",
+      "",
+      "During the program, students acquire comprehensive knowledge in various areas, including:"
+    ],
+    "fullContentLi": [
+      ["Mathematical Principles", ""],
+      ["Probability", ""],
+      ["Data Structures", ""],
+      ["Computer Architecture", ""],
+      ["Various Programming Languages", ""],
+      ["Design Patterns", ""],
+      ["Project Management", ""],
+      ["Database", ""],
+      ["Software Testing", ""],
+      ["Parallel Computing", ""],
+      ["UML Modeling", ""],
+      ["Operating Systems", ""],
+      ["Computer Networks", ""],
+      ["Data Science", ""]
+    ],
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  }
+]
