@@ -1,5 +1,41 @@
 [
   {
+    "name": "Federal Regional Court of the 5th Region",
+    "link": "https://residenciaregional.jfrn.jus.br/index.php/eduardo-c-vaz/",
+    "linkName": "My Profile",
+    "date": "2023 - Present",
+    "degree": "Software Developer",
+    "location": "Natal/RN - Recife/PE, Brazil",
+    "summary": "As a IT Resident, my experience at the Federal Regional Court of the 5th Region (TRF5) has been an enriching and challenging journey. In my role as a software developer, I have played a crucial part in the team, contributing to the development of technological solutions that support the legal system.",
+    "fullContent": [
+      "As an IT Resident, my experience at the Federal Regional Court of the 5th Region (TRF5) has been an enriching and challenging journey. In my role as a software developer, I have played a crucial part in the team, contributing to the development of technological solutions that support the legal system.",
+      "Below, I describe in detail my main responsibilities and experiences:"
+    ],
+    "fullContentLi": [
+      [
+        "Collaboration with the JFAL Team",
+        "Working closely with the team at the Federal Justice of Alagoas (JFAL) has been an essential part of my role. Alongside my team colleagues, I have been involved in significant projects involving the creation, maintenance, and improvement of legal systems and applications."
+      ],
+      [
+        "Teamwork",
+        "Effective collaboration is a key element in our work environment. I have contributed to building an environment where knowledge exchange, joint problem-solving, and communication are encouraged. This experience has strengthened my interpersonal skills and taught me to value diverse perspectives within a team."
+      ],
+      [
+        "Acquisition of Legal Knowledge",
+        "One of the unique features of this position is the opportunity to acquire legal knowledge. By collaborating with legal industry professionals, I have learned about legal processes, specific terminologies, and the unique needs of the legal system. This understanding has been valuable in directing our efforts in developing tailored technological solutions."
+      ],
+      [
+        "Interaction with Legal Authorities",
+        "An essential part of my role is interacting with legal authorities, including judges and magistrates. These interactions have provided valuable insights into the expectations and needs of end users, enabling our team to develop solutions that meet the specific demands of the legal sector."
+      ],
+      [
+        "Adaptation to Hybrid Environments",
+        "Working in a hybrid environment, combining in-person and remote work, has been an experience that has enhanced my adaptability. Managing the demands of diverse environments has taught me to be flexible, efficient, and to maintain a high level of productivity, regardless of the work context."
+      ]
+    ],
+    "imageURL": "/assets/images/Institutions/trf5.png"
+  },
+  {
     "name": "SuperProf Platform",
     "link": "https://www.superprof.com.br/ola-sou-eduardo-atualmente-curso-engenharia-software-ufrn-trabalho-atualmente-como-desenvolvedor-software-uma-empresa.html",
     "linkName": "My Profile",
