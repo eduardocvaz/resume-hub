@@ -23,7 +23,6 @@ import { ServicesComponent } from './services/services.component';
 import { CertificationsComponent } from './certifications/certifications.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { BlogComponent } from './blog/blog.component';
-import { TestimonialsComponent } from './testimonials/testimonials.component';
 import { AchievementsComponent } from './achievements/achievements.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
@@ -38,6 +37,7 @@ import { CareerComponent } from './career/career.component';
 import { QualificationEntryComponent } from './utils/qualification-entry/qualification-entry.component';
 import { CommonModule } from '@angular/common';
 import { LanguageService } from './language.service';
+import { CertificationEntryComponent } from './utils/certification-entry/certification-entry.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -54,7 +54,6 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     CertificationsComponent,
     PortfolioComponent,
     BlogComponent,
-    TestimonialsComponent,
     AchievementsComponent,
     AboutComponent,
     ContactComponent,
@@ -63,6 +62,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     EducationComponent,
     CareerComponent,
     QualificationEntryComponent,
+    CertificationEntryComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,30 @@
+{
+  "certifications":
+  [
+    {
+      "name": "Scrum Fundamentals Certified (SFC™)",
+      "location": "SCRUMstudy",
+      "summary": "This is a basic Angular certification.",
+      "pdfUrl": "https://www.scrumstudy.com/certification/verify?type=SFC&number=956380",
+      "imageUrl": "/assets/certifications/ScrumFundamentalsCertified.png",
+      "description": [
+        "The Scrum Fundamentals Certified (SFC™) course is a certification program aimed at teaching the foundational principles of Scrum, a widely used agile framework for project management.",
+        "During the course, participants learn about the basic concepts of Scrum, including roles, events, artifacts, and key practices. They are also assessed through an exam to verify their understanding of these topics.",
+        "SFC™ is an introductory certification designed for beginners looking to gain a basic understanding of Scrum."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Modern Web Development with JavaScript 2020 COMPLETE + Projects",
+      "location": "Cod3r",
+      "summary": "A comprehensive course in web development with JavaScript, covering everything from the fundamentals to advanced technologies, including Angular, React, and Vue.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-95979a44-d6b3-4e2f-a072-9d802ce325eb/",
+      "imageUrl": "/assets/certifications/udemy-web-moderno.png",
+      "description": [
+        "This course covered everything from fundamental programming concepts, JavaScript, HTML5, and CSS3 to advanced technologies like Node.js, Gulp, Webpack, jQuery, Bootstrap, React, Vue JS, ExpressJS, MySQL, MongoDB, and Electron.",
+        "Throughout the course, we explored both frontend and backend development, understanding the main programming paradigms used in Modern Web Development, such as Functional and Object-Oriented."
+      ]
+    }
+  ]
+}

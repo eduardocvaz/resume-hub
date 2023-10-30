@@ -40,7 +40,20 @@
   "education.intro.keyAreas": "Below, you will find the paths I have walked. ",
   "education.intro.exploreButton": "For a more detailed view, click the 'Expand' icon. ",
   "career.intro.title": "Professional Career",
+  "career.intro.careerStart": "At the beginning of my career as a software developer, I confirmed my true passion for programming. ",
+  "career.intro.interpersonalSkills": "Collaborating with various colleagues, I realized that being a developer goes beyond mastering programming languages. It involves interpersonal skills such as empathy, teamwork, effective communication, and leadership. ",
+  "career.intro.technologyStrength": "The true power of technology emerges when we use our technical skills to solve real-world problems and create meaningful experiences. On my journey, I seek to enhance both my technical and interpersonal skills because I believe that a developer's career is the intersection of machine logic and human innovation. ",
+  "career.intro.tracks": "Below, you will find the tracks I have traversed. For a more detailed view, click on the 'Expand' icon.",
   "construction.title": "Under Construction",
   "construction.subtitle": "We are working to improve your experience.",
-  "qualification.summary": "Summary of the experience:"
+  "qualification.summary": "Summary of the experience:",
+  "certifications.certification.title": "Certifications",
+  "certifications.certificate.title": "Certificates",
+  "certifications.certification.organization": "Organization:",
+  "certifications.certification.description": "Description:",
+  "certifications.certification.proof": "View Proof",
+  "certifications.certification.intro": "Here, I share the certifications I have obtained to prove my competence; they represent my commitment to validating my skills.",
+  "certifications.certification.explore": "Hover over the certifications for more details.",
+  "certifications.certificate.intro": "In this section, you will find a list of certificates that validate my knowledge and experience. Each one of them is a symbol of my commitment to continuous learning and excellence.",
+  "certifications.certificate.explore": "Hover over the certificates for more details."
 }

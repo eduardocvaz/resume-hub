@@ -26,10 +26,12 @@ export class TranslationService {
       this.translate.setDefaultLang('en');
       this.translate.use('en');
     }
+    console.log('Language set to: ' + this.translate.currentLang);
   }
 
   // Método privado para verificar se um idioma está disponível no aplicativo.
   private isLanguageAvailable(lang: string): boolean {
+    console.log('Checking if language is available: ' + lang);
     // Lista de idiomas disponíveis no aplicativo (inglês - en e português - pt).
     return ['en', 'pt'].includes(lang);
   }

@@ -1,0 +1,140 @@
+/* Em certification-view.component.css */
+
+/*.certification-container {*/
+/*  max-width: 600px;*/
+/*  margin: 0 auto;*/
+/*  padding: 20px;*/
+/*  border: 1px solid #ccc;*/
+/*  border-radius: 5px;*/
+/*  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);*/
+/*  background-color: #f7f7f7;*/
+/*}*/
+
+/*h1 {*/
+/*  font-size: 24px;*/
+/*  color: #333;*/
+/*  margin-bottom: 10px;*/
+/*}*/
+
+/*p {*/
+/*  font-size: 16px;*/
+/*  color: #666;*/
+/*  margin-bottom: 10px;*/
+/*}*/
+
+
+
+/*a {*/
+/*  display: block;*/
+/*  font-size: 18px;*/
+/*  color: #007bff;*/
+/*  text-decoration: none;*/
+/*  margin-top: 20px;*/
+/*}*/
+
+/*a:hover {*/
+/*  text-decoration: underline;*/
+/*}*/
+
+img {
+  width: 100%;
+  border: 1px solid #ccc;
+  /*height: auto;*/
+  /*display: block;*/
+  /*margin: 0 auto;*/
+  /*border: 1px solid #ddd;*/
+  /*border-radius: 5px;*/
+}
+
+.group {
+  position: relative;
+  width: 100%;
+  padding-bottom: 30%;
+}
+
+.div1, .div2 {
+  position: absolute;
+  width: 40%;
+  transition: transform 0.5s;
+  left: 30%;
+}
+.div1 {
+  top: 0;
+  height: 100%;
+}
+
+.div2 {
+  top: 0;
+}
+
+.div1 p, .div1 h3{
+  /*color: #ffffff;*/
+  font-size: 0.8vw;
+  margin: 10px 0 5px 0; /* top right bottom left */
+  padding-right: 10px;
+}
+
+.box {
+  width: 98%;
+  position: relative;
+  border-radius: 5px;
+  background: linear-gradient(to right, #73a7bd 35%, #9dbac5 100%);
+  padding: 1px 0 1px 8%; /* top right bottom left */
+  color: darkslategray;
+  margin-bottom: 1%;
+  box-shadow: 1px 2px 1px -1px #777;
+  transition: background 200ms ease-in-out;
+}
+
+.circle {
+  position: absolute;
+  top: 10%;
+  left: 2%;
+  border-radius: 50%;
+  box-shadow: inset 1px 1px 1px 0px rgba(0, 0, 0, 0.5), inset 0 0 0 25px #ffffff;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+}
+
+.group:hover .div1 {
+  transform: translateX(-57%);
+}
+
+.group:hover .div2 {
+  transform: translateX(40%);
+}
+
+.meu-link-estilizado {
+  color: #ffffff; /* Cor do texto */
+  text-decoration: none; /* Remove sublinhado */
+  margin: 5px;
+  padding: 5px 10px; /* Mais espaço em torno do texto */
+  background-color: #73a7bd; /* Cor de fundo */
+  border-radius: 0.5rem; /* Borda arredondada */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  transition: background-color 0.3s, color 0.3s; /* Transição suave de cores */
+  font-size: 0.90rem;
+}
+
+.meu-link-estilizado:hover {
+  background-color: #9eb4c0; /* Cor de fundo ao passar o mouse */
+  color: #fff; /* Cor do texto ao passar o mouse */
+}
+
+
+
+/*.transition {*/
+/*  transition-property: all;*/
+/*  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);*/
+/*  transition-duration: 0.25s;*/
+/*}*/
+
+/*.hidden-info {*/
+/*  display: none;*/
+/*  transition: transform 0.3s ease-in-out;*/
+/*}*/
+
+/*.group:hover .hidden-info {*/
+/*  display: block;*/
+/*}*/

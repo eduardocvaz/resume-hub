@@ -1,9 +1,45 @@
 [
   {
+    "name": "Federal Regional Court of the 5th Region",
+    "link": "https://residenciaregional.jfrn.jus.br/index.php/eduardo-c-vaz/",
+    "linkName": "My Profile",
+    "date": "2023 - Present",
+    "degree": "Software Developer",
+    "location": "Natal/RN - Recife/PE, Brazil",
+    "summary": "As a IT Resident, my experience at the Federal Regional Court of the 5th Region (TRF5) has been an enriching and challenging journey. In my role as a software developer, I have played a crucial part in the team, contributing to the development of technological solutions that support the legal system.",
+    "fullContent": [
+      "As an IT Resident, my experience at the Federal Regional Court of the 5th Region (TRF5) has been an enriching and challenging journey. In my role as a software developer, I have played a crucial part in the team, contributing to the development of technological solutions that support the legal system.",
+      "Below, I describe in detail my main responsibilities and experiences:"
+    ],
+    "fullContentLi": [
+      [
+        "Collaboration with the JFAL Team",
+        "Working closely with the team at the Federal Justice of Alagoas (JFAL) has been an essential part of my role. Alongside my team colleagues, I have been involved in significant projects involving the creation, maintenance, and improvement of legal systems and applications."
+      ],
+      [
+        "Teamwork",
+        "Effective collaboration is a key element in our work environment. I have contributed to building an environment where knowledge exchange, joint problem-solving, and communication are encouraged. This experience has strengthened my interpersonal skills and taught me to value diverse perspectives within a team."
+      ],
+      [
+        "Acquisition of Legal Knowledge",
+        "One of the unique features of this position is the opportunity to acquire legal knowledge. By collaborating with legal industry professionals, I have learned about legal processes, specific terminologies, and the unique needs of the legal system. This understanding has been valuable in directing our efforts in developing tailored technological solutions."
+      ],
+      [
+        "Interaction with Legal Authorities",
+        "An essential part of my role is interacting with legal authorities, including judges and magistrates. These interactions have provided valuable insights into the expectations and needs of end users, enabling our team to develop solutions that meet the specific demands of the legal sector."
+      ],
+      [
+        "Adaptation to Hybrid Environments",
+        "Working in a hybrid environment, combining in-person and remote work, has been an experience that has enhanced my adaptability. Managing the demands of diverse environments has taught me to be flexible, efficient, and to maintain a high level of productivity, regardless of the work context."
+      ]
+    ],
+    "imageURL": "/assets/images/Institutions/trf5.png"
+  },
+  {
     "name": "SuperProf Platform",
     "link": "https://www.superprof.com.br/ola-sou-eduardo-atualmente-curso-engenharia-software-ufrn-trabalho-atualmente-como-desenvolvedor-software-uma-empresa.html",
     "linkName": "My Profile",
-    "date": "2022 - Present",
+    "date": " 2022 - Present",
     "degree": "Programming Instructor",
     "location": "Remote - PT/EN",
     "summary": "As a Programming Instructor on the SuperProf Platform, I have acquired and enhanced crucial teaching and communication skills. My role involved instructing students of various levels and backgrounds, including different states and countries. Additionally, I had the opportunity to explore a variety of programming technologies and develop essential skills, such as assertive communication, direct negotiation with clients, and adaptable pedagogy.",
@@ -35,7 +71,7 @@
   },
   {
     "name": "Quark Tecnologia - QuarkClinic",
-    "date": "2021 - 2022",
+    "date": " 2021 - 2022",
     "degree": "FullStack Developer - Internship",
     "location": "Natal, Rio Grande do Norte, Brazil",
     "summary": "As a FullStack intern at Quark Tecnologia, I worked on the QuarkClinic platform, involving various projects that encompassed technologies like Angular, Vue.js, Spring, Groovy, and Kotlin. My responsibilities included troubleshooting in production, internal validation, feature enhancement, and code refactoring.",
@@ -57,7 +93,7 @@
   },
   {
     "name": "Center for Biosciences - UFRN",
-    "date": "2018 - 2021",
+    "date": " 2018 - 2021",
     "degree": "Technical Support Scholar",
     "location": "Natal, Rio Grande do Norte, Brazil",
     "summary": "As a technical support scholar at the Center for Biosciences, I developed technical skills in computer and operating system maintenance, enhancing problem-solving and communication. I learned time management, accurate documentation, and teamwork to ensure the efficient operation of systems and equipment.",

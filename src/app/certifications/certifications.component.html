@@ -1,1 +1,26 @@
-<app-construction-page></app-construction-page>
+<div class="mb-4">
+  <p-fieldset legend="{{ 'certifications.certification.title' | translate }}" styleClass="shadow-6">
+    <div>
+      <span>{{ 'certifications.certification.intro' | translate }}</span>
+      <span><br>{{ 'certifications.certification.explore' | translate }}</span>
+    </div>
+  </p-fieldset>
+</div>
+<p-card>
+  <div *ngFor="let certi of certification">
+    <app-certification-entry [certification]="certi"></app-certification-entry>
+  </div>
+</p-card>
+<div class="mb-4 mt-4">
+  <p-fieldset legend="{{ 'certifications.certificate.title' | translate }}" styleClass="shadow-6">
+    <div>
+      <span>{{ 'certifications.certificate.intro' | translate }}</span>
+      <span><br>{{ 'certifications.certificate.explore' | translate }}</span>
+    </div>
+  </p-fieldset>
+</div>
+<p-card>
+  <div *ngFor="let certi of certificate">
+    <app-certification-entry [certification]="certi"></app-certification-entry>
+  </div>
+</p-card>

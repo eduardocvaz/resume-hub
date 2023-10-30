@@ -1,0 +1,31 @@
+<div class="grid">
+  <div class="flex justify-content-center align-items-center col-12">
+    <h1>{{ certification?.name }}</h1>
+  </div>
+  <div class="group col-12">
+    <div *ngIf="imagensCarregadas" class="div1 p-3">
+      <div class="box">
+        <div class="circle"></div>
+        <h3>{{ 'certifications.certification.organization' | translate }}</h3>
+        <p>{{ certification?.location }}</p>
+      </div>
+      <div class="box">
+        <div class="circle"></div>
+        <h3>{{ 'certifications.certification.description' | translate }}</h3>
+        <p *ngFor="let li of certification?.description">
+          {{ li }}
+        </p>
+      </div>
+      <div>
+        <a class="meu-link-estilizado" [href]="certification?.pdfUrl" target="_blank">
+          {{ 'certifications.certification.proof' | translate }}
+          <i class="fa fa-external-link"></i>
+        </a>
+      </div>
+    </div>
+    <div class="div2">
+      <img src="{{ baseUrl + certification?.imageUrl }}" (load)="imagemCarregada()" alt="Certificado">
+    </div>
+  </div>
+</div>
+

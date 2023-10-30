@@ -6,7 +6,6 @@ import { ServicesComponent } from './services/services.component';
 import { CertificationsComponent } from './certifications/certifications.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { BlogComponent } from './blog/blog.component';
-import { TestimonialsComponent } from './testimonials/testimonials.component';
 import { AchievementsComponent } from './achievements/achievements.component';
 import {EducationComponent} from "./education/education.component";
 import {CareerComponent} from "./career/career.component";
@@ -22,7 +21,6 @@ const routes: Routes = [
   { path: 'certifications', component: CertificationsComponent },
   { path: 'portfolio', component: PortfolioComponent },
   { path: 'blog', component: BlogComponent },
-  { path: 'testimonials', component: TestimonialsComponent },
   { path: 'achievements', component: AchievementsComponent },
   { path: '**', redirectTo: '/home' } // Redireciona para a página inicial se uma rota inválida for digitada
 ];
