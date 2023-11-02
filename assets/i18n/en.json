@@ -46,5 +46,19 @@
   "career.intro.tracks": "Below, you will find the tracks I have traversed. For a more detailed view, click on the 'Expand' icon.",
   "construction.title": "Under Construction",
   "construction.subtitle": "We are working to improve your experience.",
-  "qualification.summary": "Summary of the experience:"
+  "qualification.summary": "Summary of the experience:",
+  "certifications.certification.title": "Certifications",
+  "certifications.certificate.title": "Certificates",
+  "certifications.certification.organization": "Organization:",
+  "certifications.certification.description": "Description:",
+  "certifications.certification.proof": "View Proof",
+  "certifications.certification.intro": "Here, I share the certifications I have obtained to prove my competence; they represent my commitment to validating my skills.",
+  "certifications.certification.explore": "Hover over the certifications for more details.",
+  "certifications.certificate.intro": "In this section, you will find a list of certificates that validate my knowledge and experience. Each one of them is a symbol of my commitment to continuous learning and excellence.",
+  "certifications.certificate.explore": "Hover over the certificates for more details.",
+  "portfolio.certificate.title": "Portfolio",
+  "portfolio.certificate.intro": "Below, I present a selection of projects developed throughout my career in the field of software development. Most of these projects were created with the purpose of showcasing my skills, as the majority of my previous work was subject to confidentiality agreements due to the private nature of the companies I worked for. ",
+  "portfolio.certificate.myJourney": "These projects are a reflection of my commitment to improving my skills and highlighting my knowledge in software development. ",
+  "portfolio.certificate.explore": "Feel free to click on any project to obtain more details about it. "
+
 }
