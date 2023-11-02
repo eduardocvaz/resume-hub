@@ -38,6 +38,9 @@ import { QualificationEntryComponent } from './utils/qualification-entry/qualifi
 import { CommonModule } from '@angular/common';
 import { LanguageService } from './language.service';
 import { CertificationEntryComponent } from './utils/certification-entry/certification-entry.component';
+import { PortfolioEntryComponent } from './utils/portifolio-entry/portfolio-entry.component';
+import { FontAwesomeModule, FaIconLibrary } from '@fortawesome/angular-fontawesome';
+import { faBootstrap, faAngular } from '@fortawesome/free-brands-svg-icons';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -63,6 +66,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     CareerComponent,
     QualificationEntryComponent,
     CertificationEntryComponent,
+    PortfolioEntryComponent,
   ],
   imports: [
     BrowserModule,
@@ -86,13 +90,19 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     ScrollPanelModule,
     CardModule,
     PanelModule,
-    CommonModule
+    CommonModule,
+    FontAwesomeModule
   ],
   providers: [LanguageService],
   bootstrap: [AppComponent]
 })
 export class AppModule {
-  constructor(private translationService: TranslationService) {
+  constructor(
+    private translationService: TranslationService,
+    private library: FaIconLibrary
+  ) {
     this.translationService.initializeApp();
+    library.addIcons(faBootstrap);
+    library.addIcons(faAngular);
   }
 }

@@ -1,1 +1,15 @@
-<app-construction-page></app-construction-page>
+<div class="mb-4">
+  <p-fieldset legend="{{ 'portfolio.certificate.title' | translate }}" styleClass="shadow-6">
+    <div>
+      <span>{{ 'portfolio.certificate.intro' | translate }}</span>
+      <span>{{ 'portfolio.certificate.myJourney' | translate }}</span>
+      <span><br>{{ 'portfolio.certificate.explore' | translate }}</span>
+    </div>
+  </p-fieldset>
+</div>
+<div class="grid m-4">
+  <div *ngFor="let project of projects" class="col-6">
+    <app-portifolio-entry [project]="project"></app-portifolio-entry>
+  </div>
+</div>
+

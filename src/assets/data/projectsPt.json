@@ -1,0 +1,50 @@
+[
+    {
+      "title": "FlixMania",
+      "icons": [
+        ["fab", "bootstrap"],
+        ["fab", "angular"]
+      ],
+      "description": [
+        "asdasdasdasdasdasdasd asdasdasdasdasdasdasd asdasdasdasdasdasdasd",
+        "asdasdasdasdasdasdasd asdasdasdasdasdasdasd asdasdasdasdasdasdasd"
+      ],
+      "imageUrl": "/assets/portifolio/flixmania.png"
+    },
+  {
+    "title": "TechExplorers",
+    "icons": [
+      ["fab", "angular"],
+      ["fab", "bootstrap"]
+    ],
+    "description": [
+      "TechExplorers is a platform for tech enthusiasts to explore the latest technologies.",
+      "Join us on a journey through the world of cutting-edge tech!"
+    ],
+    "imageUrl": "/assets/portifolio/flixmania.png"
+  },
+  {
+    "title": "Google",
+    "icons": [
+      ["fab", "bootstrap"],
+      ["fab", "angular"]
+    ],
+    "description": [
+      "Google is a multinational technology company specializing in Internet-related services.",
+      "Explore the world of search, online advertising, cloud computing, and more with Google."
+    ],
+    "imageUrl": "/assets/portifolio/google.png"
+  },
+  {
+    "title": "Twitter",
+    "icons": [
+      ["fab", "bootstrap"],
+      ["fab", "angular"]
+    ],
+    "description": [
+      "Twitter is a social media platform that lets you express yourself and connect with others.",
+      "Join the conversation and discover what's happening in the world on Twitter."
+    ],
+    "imageUrl": "/assets/portifolio/twitter.png"
+  }
+]

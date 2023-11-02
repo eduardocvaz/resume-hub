@@ -55,5 +55,10 @@
   "certifications.certification.intro": "Here, I share the certifications I have obtained to prove my competence; they represent my commitment to validating my skills.",
   "certifications.certification.explore": "Hover over the certifications for more details.",
   "certifications.certificate.intro": "In this section, you will find a list of certificates that validate my knowledge and experience. Each one of them is a symbol of my commitment to continuous learning and excellence.",
-  "certifications.certificate.explore": "Hover over the certificates for more details."
+  "certifications.certificate.explore": "Hover over the certificates for more details.",
+  "portfolio.certificate.title": "Portfolio",
+  "portfolio.certificate.intro": "Below, I present a selection of projects developed throughout my career in the field of software development. Most of these projects were created with the purpose of showcasing my skills, as the majority of my previous work was subject to confidentiality agreements due to the private nature of the companies I worked for. ",
+  "portfolio.certificate.myJourney": "These projects are a reflection of my commitment to improving my skills and highlighting my knowledge in software development. ",
+  "portfolio.certificate.explore": "Feel free to click on any project to obtain more details about it. "
+
 }

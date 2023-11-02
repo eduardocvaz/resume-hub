@@ -55,5 +55,9 @@
   "certifications.certification.intro": "Aqui, compartilho as certificações que obtive para comprovar minha competência, elas representam meu compromisso com a comprovação das minhas habilidades. ",
   "certifications.certification.explore": "Passe o mouse sobre as certificações para obter mais detalhes.",
   "certifications.certificate.intro": "Nesta área, você encontrará uma lista dos certificados que validam meu conhecimento e experiência. Cada um deles é um símbolo do meu comprometimento com a aprendizagem contínua e a excelência.",
-  "certifications.certificate.explore": "Passe o mouse sobre os certificados para obter mais detalhes."
+  "certifications.certificate.explore": "Passe o mouse sobre os certificados para obter mais detalhes.",
+  "portfolio.certificate.title": "Portfolio",
+  "portfolio.certificate.intro": "A seguir, apresento uma seleção de projetos que foram desenvolvidos ao longo da minha carreira na área de desenvolvimento de software. A maioria desses projetos foi concebida com o intuito de demonstrar minhas habilidades, uma vez que a maioria dos meus trabalhos anteriores estava sujeita a acordos de confidencialidade, devido à natureza privada das empresas em que atuei. ",
+  "portfolio.certificate.myJourney": "Estes projetos são um reflexo do meu compromisso em aprimorar minhas competências e destacar meu conhecimento em desenvolvimento de software. ",
+  "portfolio.certificate.explore": "Fique à vontade para clicar em qualquer projeto para obter mais detalhes sobre ele. "
 }
