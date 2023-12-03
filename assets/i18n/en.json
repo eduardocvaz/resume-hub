@@ -1,5 +1,5 @@
 {
-  "topmenu": ["Portuguese", "English", "About", "Contact"],
+  "topmenu": ["Portuguese", "English", "About", "Contact", "Curriculum"],
   "menu.home": "Home",
   "menu.certifications": "Certifications",
   "menu.technologies": "Technologies",
@@ -10,6 +10,7 @@
   "menu.services": "Services",
   "menu.portfolio": "Portfolio",
   "menu.blog": "Blog",
+  "menu.podcast": "Podcast",
   "menu.testimonials": "Testimonials",
   "menu.clients": "Clients",
   "welcome.title": "Welcome to my Resume Hub!",
