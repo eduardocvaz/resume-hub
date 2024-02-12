@@ -1,50 +1,47 @@
 [
-    {
-      "title": "FlixMania",
-      "icons": [
-        ["fab", "bootstrap"],
-        ["fab", "angular"]
-      ],
-      "description": [
-        "asdasdasdasdasdasdasd asdasdasdasdasdasdasd asdasdasdasdasdasdasd",
-        "asdasdasdasdasdasdasd asdasdasdasdasdasdasd asdasdasdasdasdasdasd"
-      ],
-      "imageUrl": "/assets/portifolio/flixmania.png"
-    },
   {
-    "title": "TechExplorers",
+    "title": "Resume Hub",
+    "icons": [
+      ["fab", "bootstrap"],
+      ["fab", "angular"]
+    ],
+    "description": [
+      "Este projeto é uma plataforma dedicada a fornecer uma ampla gama de informações sobre minha carreira no mundo do desenvolvimento, servindo como uma extensão do meu currículo. Além disso, tem como objetivo principal reforçar e demonstrar minhas habilidades no framework Angular. Com uma interface intuitiva, os visitantes podem explorar meus projetos, experiência e habilidades. É uma ferramenta valiosa para empregadores e colegas interessados em minha experiência e contribuições."
+    ],
+    "imageUrl": "/assets/portifolio/resumeHub.png"
+  },
+  {
+    "title": "Curriculum vitae",
     "icons": [
       ["fab", "angular"],
       ["fab", "bootstrap"]
     ],
     "description": [
-      "TechExplorers is a platform for tech enthusiasts to explore the latest technologies.",
-      "Join us on a journey through the world of cutting-edge tech!"
+      "Este projeto é uma plataforma multifuncional que apresenta meu currículo em português e inglês, destacando minhas habilidades e experiências profissionais, desenvolvido com o framework React. Os visitantes podem baixar qualquer versão do currículo em PDF para uma visualização rápida e fácil."
+    ],
+    "imageUrl": "/assets/portifolio/curriculo.png"
+  },
+  {
+    "title": "Eduardo's Blog",
+    "icons": [
+      ["fab", "bootstrap"],
+      ["fab", "angular"]
+    ],
+    "description": [
+      "Este projeto é um blog pessoal dedicado à tecnologia, desenvolvido em Vue.js e Strapi. Nele, são compartilhados artigos e insights sobre as últimas tendências, inovações e dicas úteis. Do mundo da inteligência artificial à programação, o blog aborda uma variedade de tópicos para entusiastas e profissionais da área. Os visitantes podem explorar este espaço virtual para se manterem atualizados e encontrarem inspiração no mundo tecnológico em constante evolução."
+    ],
+    "imageUrl": "/assets/portifolio/blog.png"
+  },
+  {
+    "title": "FlixMania",
+    "icons": [
+      ["fab", "bootstrap"],
+      ["fab", "angular"]
+    ],
+    "description": [
+      "Desenvolvi o FlixMania, uma plataforma de streaming para um cliente, oferecendo uma variedade de entretenimento para usuários brasileiros. Com acesso a diversos canais, filmes e séries, proporciona uma experiência de visualização excepcional. O site foi construído exclusivamente com Bootstrap."
     ],
     "imageUrl": "/assets/portifolio/flixmania.png"
-  },
-  {
-    "title": "Google",
-    "icons": [
-      ["fab", "bootstrap"],
-      ["fab", "angular"]
-    ],
-    "description": [
-      "Google is a multinational technology company specializing in Internet-related services.",
-      "Explore the world of search, online advertising, cloud computing, and more with Google."
-    ],
-    "imageUrl": "/assets/portifolio/google.png"
-  },
-  {
-    "title": "Twitter",
-    "icons": [
-      ["fab", "bootstrap"],
-      ["fab", "angular"]
-    ],
-    "description": [
-      "Twitter is a social media platform that lets you express yourself and connect with others.",
-      "Join the conversation and discover what's happening in the world on Twitter."
-    ],
-    "imageUrl": "/assets/portifolio/twitter.png"
   }
 ]
+

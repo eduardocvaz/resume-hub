@@ -6,20 +6,18 @@
       ["fab", "angular"]
     ],
     "description": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus neque in ultricies ullamcorper.",
-      "Sed eu tempor neque. Donec dignissim pharetra dolor, vel cursus lectus placerat id. Fusce vitae consequat ante."
+      "This project is a platform dedicated to providing a wide range of information about my career in the development world, serving as an extension of my resume. Additionally, its main aim is to reinforce and demonstrate my skills in the Angular framework. With an intuitive interface, visitors can explore my projects, experience, and skills. It's a valuable tool for employers and colleagues interested in my experience and contributions."
     ],
     "imageUrl": "/assets/portifolio/resumeHub.png"
   },
   {
-    "title": "Curriculum vitae",
+    "title": "Curriculum Vitae",
     "icons": [
       ["fab", "angular"],
       ["fab", "bootstrap"]
     ],
     "description": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus neque in ultricies ullamcorper.",
-      "Sed eu tempor neque. Donec dignissim pharetra dolor, vel cursus lectus placerat id. Fusce vitae consequat ante."
+      "This project is a multifunctional platform presenting my resume in Portuguese and English, highlighting my skills and professional experiences, developed with the React framework. Visitors can download any version of the resume in PDF for quick and easy viewing."
     ],
     "imageUrl": "/assets/portifolio/curriculo.png"
   },
@@ -30,8 +28,7 @@
       ["fab", "angular"]
     ],
     "description": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus neque in ultricies ullamcorper.",
-      "Sed eu tempor neque. Donec dignissim pharetra dolor, vel cursus lectus placerat id. Fusce vitae consequat ante."
+      "This project is a personal blog dedicated to technology, developed in Vue.js and Strapi. It shares articles and insights on the latest trends, innovations, and useful tips. From the world of artificial intelligence to programming, the blog covers a variety of topics for enthusiasts and professionals in the field. Visitors can explore this virtual space to stay updated and find inspiration in the ever-evolving technological world."
     ],
     "imageUrl": "/assets/portifolio/blog.png"
   },
@@ -42,10 +39,8 @@
       ["fab", "angular"]
     ],
     "description": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus neque in ultricies ullamcorper.",
-      "Sed eu tempor neque. Donec dignissim pharetra dolor, vel cursus lectus placerat id. Fusce vitae consequat ante."
+      "I developed FlixMania, a streaming platform for a client, offering a variety of entertainment for Brazilian users. With access to various channels, movies, and series, it provides an exceptional viewing experience. The site was built exclusively with Bootstrap."
     ],
     "imageUrl": "/assets/portifolio/flixmania.png"
   }
 ]
-
