@@ -1,0 +1,10 @@
+<div class="post-preview flex">
+  <div class="image flex align-items-center justify-content-center">
+    <img src="{{ apiUrl + post?.attributes?.image?.data?.attributes?.url}}" alt="Html" class="w-9">
+  </div>
+  <div class="content">
+    <h2>{{ post?.attributes?.title }}</h2>
+    <p>{{ post?.attributes?.sumary }}</p>
+    <a href="{{ blogUrl + '/detail/' + post?.attributes?.slug }}" target="_blank">Leia mais</a>
+  </div>
+</div>

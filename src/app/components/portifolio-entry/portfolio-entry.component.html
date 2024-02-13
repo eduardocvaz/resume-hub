@@ -1,0 +1,18 @@
+<div class="container" (click)="openModal(project?.title)" [ngStyle]="{'background': 'url(' + baseUrl + project?.imageUrl + ')'}" >
+  <div class="overlay">
+    <div class = "items head">
+      <p>{{ project?.title }}</p>
+      <hr>
+    </div>
+    <div class="items icons">
+      <fa-icon *ngFor="let icon of project?.icons" [icon]="icon"></fa-icon>
+    </div>
+    <div class = "items text1">
+      <p class="m-1" *ngFor="let description of project?.description" >{{ description }}</p>
+    </div>
+    <div class="items text2">
+      <i class="fa fa-expand"></i>
+      <span>{{ 'portfolio.seemore' | translate }}</span>
+    </div>
+  </div>
+</div>

@@ -1,14 +1,15 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomeComponent } from './home/home.component';
-import { TechnologiesComponent } from './technologies/technologies.component';
-import { ServicesComponent } from './services/services.component';
-import { CertificationsComponent } from './certifications/certifications.component';
-import { PortfolioComponent } from './portfolio/portfolio.component';
-import { BlogComponent } from './blog/blog.component';
-import { AchievementsComponent } from './achievements/achievements.component';
-import {EducationComponent} from "./education/education.component";
-import {CareerComponent} from "./career/career.component";
+import { HomeComponent } from './pages/home/home.component';
+import { TechnologiesComponent } from './pages/technologies/technologies.component';
+import { ServicesComponent } from './pages/services/services.component';
+import { CertificationsComponent } from './pages/certifications/certifications.component';
+import { PortfolioComponent } from './pages/portfolio/portfolio.component';
+import { BlogComponent } from './pages/blog/blog.component';
+import { AchievementsComponent } from './pages/achievements/achievements.component';
+import {EducationComponent} from "./pages/education/education.component";
+import {CareerComponent} from "./pages/career/career.component";
+import {PodcastComponent} from "./pages/podcast/podcast.component";
 
 // Defina as rotas
 const routes: Routes = [
@@ -22,6 +23,7 @@ const routes: Routes = [
   { path: 'portfolio', component: PortfolioComponent },
   { path: 'blog', component: BlogComponent },
   { path: 'achievements', component: AchievementsComponent },
+  { path: 'podcast', component: PodcastComponent },
   { path: '**', redirectTo: '/home' } // Redireciona para a página inicial se uma rota inválida for digitada
 ];
 

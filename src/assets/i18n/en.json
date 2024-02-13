@@ -1,5 +1,5 @@
 {
-  "topmenu": ["Portuguese", "English", "About", "Contact"],
+  "topmenu": ["Portuguese", "English", "About", "Contact", "Curriculum"],
   "menu.home": "Home",
   "menu.certifications": "Certifications",
   "menu.technologies": "Technologies",
@@ -10,6 +10,7 @@
   "menu.services": "Services",
   "menu.portfolio": "Portfolio",
   "menu.blog": "Blog",
+  "menu.podcast": "Podcast",
   "menu.testimonials": "Testimonials",
   "menu.clients": "Clients",
   "welcome.title": "Welcome to my Resume Hub!",
@@ -59,6 +60,6 @@
   "portfolio.certificate.title": "Portfolio",
   "portfolio.certificate.intro": "Below, I present a selection of projects developed throughout my career in the field of software development. Most of these projects were created with the purpose of showcasing my skills, as the majority of my previous work was subject to confidentiality agreements due to the private nature of the companies I worked for. ",
   "portfolio.certificate.myJourney": "These projects are a reflection of my commitment to improving my skills and highlighting my knowledge in software development. ",
-  "portfolio.certificate.explore": "Feel free to click on any project to obtain more details about it. "
-
+  "portfolio.certificate.explore": "Feel free to click on any project to obtain more details about it. ",
+  "portfolio.seemore": "See more "
 }

@@ -1,5 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
-import { SidenavComponent } from './sidenav/sidenav.component';
+import { SidenavComponent } from './nav/sidenav/sidenav.component';
 import {environment} from "../environments/environment";
 @Component({
   selector: 'app-root',
