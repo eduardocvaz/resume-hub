@@ -1,1 +1,40 @@
-<app-construction-page></app-construction-page>
+<p-card styleClass="mr-8 ml-8 shadow-6">
+  <div class="flex flex-column">
+    <div class="flex align-items-center justify-content-start">
+      <span class="mr-2">{{ 'contact.email.label' | translate }}:</span>
+      <a href="mailto:eduardo@eduardovaz.dev" target="_blank">
+        {{ 'contact.email.content' | translate }}
+        <i class="fa fa-external-link ml-1"></i>
+      </a>
+    </div>
+    <p-divider></p-divider>
+    <div class="flex align-items-center justify-content-start">
+      <span class="mr-2">{{ 'contact.phone.label' | translate }}:</span>
+      <span>{{ 'contact.phone.content' | translate }}</span>
+    </div>
+    <p-divider></p-divider>
+    <div class="flex align-items-center justify-content-start">
+      <span class="mr-2">{{ 'contact.linkedin.label' | translate }}:</span>
+      <a href="https://www.linkedin.com/in/eduardo-c-vaz/" target="_blank">
+        {{ 'contact.linkedin.content' | translate }}
+        <i class="fa fa-external-link ml-1"></i>
+      </a>
+    </div>
+    <p-divider></p-divider>
+    <div class="flex align-items-center justify-content-start">
+      <span class="mr-2">{{ 'contact.github.label' | translate }}:</span>
+      <a href="https://github.com/eduardocvaz" target="_blank">
+        {{ 'contact.github.content' | translate }}
+        <i class="fa fa-external-link ml-1"></i>
+      </a>
+    </div>
+    <p-divider></p-divider>
+    <div class="flex align-items-center justify-content-start">
+      <span class="mr-2">{{ 'contact.portfolio.label' | translate }}:</span>
+      <a href="https://www.resume.eduardovaz.dev/portfolio" target="_blank">
+        {{ 'contact.portfolio.content' | translate }}
+        <i class="fa fa-external-link ml-1"></i>
+      </a>
+    </div>
+  </div>
+</p-card>

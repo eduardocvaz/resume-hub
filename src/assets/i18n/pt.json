@@ -1,5 +1,5 @@
 {
-  "topmenu": ["Português", "Inglês", "Sobre", "Contato", "Currículo"],
+  "topmenu": ["Português", "Inglês", "Sobre", "Contato", "Currículo", "Sobre essa aplicação..."],
   "menu.home": "Início",
   "menu.certifications": "Certificações",
   "menu.technologies": "Tecnologias",
@@ -61,5 +61,15 @@
   "portfolio.certificate.intro": "A seguir, apresento uma seleção de projetos que foram desenvolvidos ao longo da minha carreira na área de desenvolvimento de software. A maioria desses projetos foi concebida com o intuito de demonstrar minhas habilidades, uma vez que a maioria dos meus trabalhos anteriores estava sujeita a acordos de confidencialidade, devido à natureza privada das empresas em que atuei. ",
   "portfolio.certificate.myJourney": "Estes projetos são um reflexo do meu compromisso em aprimorar minhas competências e destacar meu conhecimento em desenvolvimento de software. ",
   "portfolio.certificate.explore": "Fique à vontade para clicar em qualquer projeto para obter mais detalhes sobre ele. ",
-  "portfolio.seemore": "Ver mais "
+  "portfolio.seemore": "Ver mais ",
+  "contact.email.label": "E-mail",
+  "contact.email.content": "eduardo@eduardovaz.dev",
+  "contact.phone.label": "Telefone",
+  "contact.phone.content": "Disponível mediante solicitação",
+  "contact.linkedin.label": "LinkedIn",
+  "contact.linkedin.content": "linkedin.com/in/eduardo-c-vaz/",
+  "contact.github.label": "GitHub",
+  "contact.github.content": "github.com/eduardocvaz",
+  "contact.portfolio.label": "Portfólio",
+  "contact.portfolio.content": "www.eduardovaz.dev"
 }

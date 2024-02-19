@@ -56,7 +56,7 @@ export class TopmenuComponent {
         label: this.user.name,
         icon: 'user-icon',
         items: [
-          {label: this.topmenu[2], icon: 'fa fa-info-circle', command: () => this.show(AboutComponent, this.topmenu[2])},
+          {label: this.topmenu[2], icon: 'fa fa-info-circle', command: () => this.show(AboutComponent, this.topmenu[5])},
           {label: this.topmenu[3], icon: 'fa fa-envelope', command: () => this.show(ContactComponent, this.topmenu[3])},
           {label: this.topmenu[4], icon: 'fa fa-file', command: () => window.open(environment.cvUrl, '_blank')}
         ]
@@ -68,7 +68,7 @@ export class TopmenuComponent {
   show(componentType: Type<any>, header: string) {
     this.ref = this.dialogService.open(componentType, {
       header: header,
-      width: '70%',
+      width: '50%',
       contentStyle: { overflow: 'auto' },
       baseZIndex: 10000,
       maximizable: true
@@ -81,7 +81,10 @@ export class TopmenuComponent {
       this.items[0].items[0].label = res[0];
       this.items[0].items[1].label = res[1];
       this.items[1].items[0].label = res[2];
+      this.items[1].items[0].command = () => this.show(AboutComponent, res[5]);
       this.items[1].items[1].label = res[3];
+      this.items[1].items[1].command = () => this.show(ContactComponent, res[3]);
+      this.items[1].items[2].label = res[4];
     });
 
     // Notifique o serviço sobre a alteração do idioma
