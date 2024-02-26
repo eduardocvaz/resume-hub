@@ -1,4 +1,4 @@
-<div class="container" (click)="openModal(project?.title)" [ngStyle]="{'background': 'url(' + baseUrl + project?.imageUrl + ')'}" >
+<div class="container" (click)="openModal(project?.title, this.project)" [ngStyle]="{'background': 'url(' + project?.imageUrl + ')'}" >
   <div class="overlay">
     <div class = "items head">
       <p>{{ project?.title }}</p>

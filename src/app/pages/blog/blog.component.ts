@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {ApiResponse, Post} from "../../components/blog-entry/model/post.model";
-import {PostService} from "../../service/post.service";
+import {PostService} from "../../service/post/post.service";
 
 @Component({
   selector: 'app-blog',

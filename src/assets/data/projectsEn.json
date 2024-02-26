@@ -8,7 +8,20 @@
     "description": [
       "This project is a platform dedicated to providing a wide range of information about my career in the development world, serving as an extension of my resume. Additionally, its main aim is to reinforce and demonstrate my skills in the Angular framework. With an intuitive interface, visitors can explore my projects, experience, and skills. It's a valuable tool for employers and colleagues interested in my experience and contributions."
     ],
-    "imageUrl": "/assets/portifolio/resumeHub.png"
+    "fullDescription": [
+      "This project is a comprehensive platform aimed at providing extensive insights into my career in the development field, acting as an augmented version of my resume. Its primary focus lies in showcasing and reinforcing my proficiency in the Angular framework. Through a user-friendly interface, visitors can seamlessly navigate through my projects, experiences, and skills.",
+      "The platform serves as a valuable resource for employers and colleagues interested in understanding my background and contributions. By offering transparent access to my projects and expertise, it facilitates informed decision-making and fosters meaningful professional connections."
+    ],
+    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/resume.jpg",
+    "link": "https://www.resume.eduardovaz.dev/home",
+    "links": [
+      {
+        "name": "WebSite",
+        "url": "https://www.resume.eduardovaz.dev/home",
+        "iconSvg": "/assets/icons/external-link.svg"
+      }
+    ],
+    "tags": ["HTML5", "CSS3", "HTTP", "angular", "rest", "github", "primeng", "ngx-translate", "font-awesome", "typescript"]
   },
   {
     "title": "Curriculum Vitae",
@@ -19,7 +32,19 @@
     "description": [
       "This project is a multifunctional platform presenting my resume in Portuguese and English, highlighting my skills and professional experiences, developed with the React framework. Visitors can download any version of the resume in PDF for quick and easy viewing."
     ],
-    "imageUrl": "/assets/portifolio/curriculo.png"
+    "fullDescription": [
+      "This project serves as a versatile platform aimed at showcasing my professional profile in both Portuguese and English languages. It incorporates an interactive resume, meticulously curated to underscore my diverse skill set and extensive professional background. Leveraging the React framework, the platform ensures a seamless and engaging user experience.",
+      "Visitors to the platform are provided with the flexibility to download either the Portuguese or English version of my resume in PDF format. This feature facilitates quick and convenient access to my credentials, enabling potential employers or collaborators to review my qualifications with ease."
+    ],
+    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/cv.jpg",
+    "links": [
+      {
+        "name": "WebSite",
+        "url": "https://www.cv.eduardovaz.dev/",
+        "iconSvg": "/assets/icons/external-link.svg"
+      }
+    ],
+    "tags": ["HTML5", "CSS3", "react", "github", "typescript"]
   },
   {
     "title": "Eduardo's Blog",
@@ -30,7 +55,19 @@
     "description": [
       "This project is a personal blog dedicated to technology, developed in Vue.js and Strapi. It shares articles and insights on the latest trends, innovations, and useful tips. From the world of artificial intelligence to programming, the blog covers a variety of topics for enthusiasts and professionals in the field. Visitors can explore this virtual space to stay updated and find inspiration in the ever-evolving technological world."
     ],
-    "imageUrl": "/assets/portifolio/blog.png"
+    "fullDescription": [
+      "Embarking on a journey through the intricate landscape of technology, this project stands as a testament to the relentless pursuit of knowledge and innovation. Crafted with precision and ingenuity, it takes the form of a personal blog meticulously developed using the powerful combination of Vue.js and Strapi, two cutting-edge technologies that epitomize the spirit of modern web development.\n\n",
+      "At its core, this digital sanctuary serves as a beacon for tech aficionados and industry professionals alike, offering a treasure trove of articles, insights, and discoveries meticulously curated to illuminate the latest trends, breakthroughs, and invaluable tips shaping the contemporary technological landscape."
+    ],
+    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/blog.jpg",
+    "links": [
+      {
+        "name": "WebSite",
+        "url": "https://www.blog.eduardovaz.dev/",
+        "iconSvg": "/assets/icons/external-link.svg"
+      }
+    ],
+    "tags": ["HTML5", "CSS3", "HTTP", "vue-js", "strapi", "rest", "aws", "github", "typescript"]
   },
   {
     "title": "FlixMania",
@@ -41,6 +78,23 @@
     "description": [
       "I developed FlixMania, a streaming platform for a client, offering a variety of entertainment for Brazilian users. With access to various channels, movies, and series, it provides an exceptional viewing experience. The site was built exclusively with Bootstrap."
     ],
-    "imageUrl": "/assets/portifolio/flixmania.png"
+    "fullDescription": [
+      "I designed and developed FlixMania, a dynamic website dedicated to promoting a premier streaming platform tailored for Brazilian audiences. FlixMania serves as the digital gateway to an expansive array of entertainment options, including channels, movies, and series, curated to cater to the diverse tastes of Brazilian users.",
+      "Built exclusively with Bootstrap, FlixMania's website boasts a modern and responsive design, ensuring seamless navigation and an optimal viewing experience across various devices. The platform showcases the richness and variety of content available on the streaming service, enticing visitors with captivating visuals and compelling descriptions."
+    ],
+    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/flixmania.jpg",
+    "links": [
+      {
+        "name": "WebSite",
+        "url": "https://www.eduardovaz.dev/FlixMidia/",
+        "iconSvg": "/assets/icons/external-link.svg"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/eduardocvaz/FlixMidia",
+        "iconSvg": "/assets/icons/github.svg"
+      }
+    ],
+    "tags": ["Bootstrap", "HTML5", "CSS3", "typescript"]
   }
 ]

@@ -1,12 +1,9 @@
 import {Component, Input} from '@angular/core';
 import {environment} from "../../../environments/environment";
-import { faFilter } from '@fortawesome/free-solid-svg-icons'
 import {Project} from "./model/project.model";
-import {ConstructionPageComponent} from "../construction-page/construction-page.component";
 import {DialogService, DynamicDialogRef} from "primeng/dynamicdialog";
 import {TranslateService} from "@ngx-translate/core";
-import {HttpClient} from "@angular/common/http";
-import {Qualification} from "../qualification-entry/model/qualification.model";
+import {ExplorePortfolioComponent} from "../../pages/portfolio/explore-portfolio/explore-portfolio.component";
 
 @Component({
   selector: 'app-portifolio-entry',
@@ -24,11 +21,13 @@ export class PortfolioEntryComponent {
     private translate: TranslateService,
   ) {}
 
-  openModal(header: string = 'construction.title') {
-    this.ref = this.dialogService.open(ConstructionPageComponent, {
+  openModal(header: string = 'construction.title', project: Project | undefined) {
+    this.ref = this.dialogService.open(ExplorePortfolioComponent, {
       header: this.translate.instant(header) || header,
-      width: '80%',
-      // contentStyle: { overflow: 'auto' },
+      data: {
+        project: project
+      },
+      width: '97%',
       baseZIndex: 10000,
       maximizable: true
     });

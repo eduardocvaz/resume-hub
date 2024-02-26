@@ -35,7 +35,7 @@ import { ConstructionPageComponent } from './components/construction-page/constr
 import { EducationComponent } from './pages/education/education.component';
 import { CareerComponent } from './pages/career/career.component';
 import { QualificationEntryComponent } from './components/qualification-entry/qualification-entry.component';
-import { CommonModule } from '@angular/common';
+import {CommonModule, NgOptimizedImage} from '@angular/common';
 import { LanguageService } from './language.service';
 import { CertificationEntryComponent } from './components/certification-entry/certification-entry.component';
 import { PortfolioEntryComponent } from './components/portifolio-entry/portfolio-entry.component';
@@ -44,6 +44,7 @@ import { faBootstrap, faAngular } from '@fortawesome/free-brands-svg-icons';
 import { faMicrophoneLines } from '@fortawesome/free-solid-svg-icons';
 import { BlogEntryComponent } from './components/blog-entry/blog-entry.component';
 import { PodcastComponent } from './pages/podcast/podcast.component';
+import { ExplorePortfolioComponent } from './pages/portfolio/explore-portfolio/explore-portfolio.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, environment.i18nPath, '.json');
@@ -72,6 +73,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     PortfolioEntryComponent,
     BlogEntryComponent,
     PodcastComponent,
+    ExplorePortfolioComponent,
   ],
   imports: [
     BrowserModule,
@@ -96,7 +98,8 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     CardModule,
     PanelModule,
     CommonModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    NgOptimizedImage
   ],
   providers: [LanguageService],
   bootstrap: [AppComponent]

@@ -1,8 +1,7 @@
-import {Component, Type} from '@angular/core';
+import {Component} from '@angular/core';
 import {environment} from "../../../environments/environment";
 import {DialogService, DynamicDialogRef} from "primeng/dynamicdialog";
 import {ExploreComponent} from "./explore/explore.component";
-import {ConstructionPageComponent} from "../../components/construction-page/construction-page.component";
 import {TranslateService} from "@ngx-translate/core";
 
 @Component({
@@ -20,14 +19,15 @@ export class TechnologiesComponent {
     private translate: TranslateService
   ) {}
 
-  show(header: string = 'construction.title') {
-    this.ref = this.dialogService.open(ConstructionPageComponent, {
+  show(header: string = 'construction.title', tags: string[] = []) {
+    this.ref = this.dialogService.open(ExploreComponent, {
       header: this.translate.instant(header),
-      width: '80%',
-      // contentStyle: { overflow: 'auto' },
+      width: '70%',
+      data: {
+        tags: tags
+      },
       baseZIndex: 10000,
       maximizable: true
     });
   }
-
 }

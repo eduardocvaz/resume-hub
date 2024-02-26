@@ -1,1 +1,9 @@
-<p>explore works!</p>
+<div>
+  <h2>Projetos</h2>
+  <div class="grid">
+    <div *ngFor="let project of projects" class="col-6">
+      <app-portifolio-entry [project]="project"></app-portifolio-entry>
+    </div>
+  </div>
+</div>
+

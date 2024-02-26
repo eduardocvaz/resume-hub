@@ -1,0 +1,33 @@
+.project-image {
+}
+
+.project-image img {
+  width: 100%;
+  /*Centralizar imagem*/
+  display: block;
+
+}
+.project-info p {
+  font-size: 2.5vh;
+}
+.project-info {
+}
+.project-info h2 {
+  font-size: 3vh;
+  margin: 0;
+}
+.project-links img {
+  width: 5vh;
+  height: 5vh;
+  margin-left: 5px;
+}
+.stacks img{
+  width: 7vh;
+  height: 7vh;
+  margin: 5px;
+}
+li {
+  display: inline;
+  /*tirar pontos do li */
+  list-style-type: none;
+}

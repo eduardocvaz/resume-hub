@@ -1,0 +1,31 @@
+<div>
+  <div class="grid">
+    <section class="project-image col-6">
+      <img src="{{ project.imageUrl }}" alt="{{ project.title }}">
+    </section>
+    <section class="project-info col-6">
+      <h2>{{ project.title }}</h2>
+      <div class ="project-description">
+        <p *ngFor="let fullDescription of project.fullDescription" >
+          {{ fullDescription }}
+        </p>
+      </div>
+      <div class="project-links">
+        <h3>Links:</h3>
+        <div class="grid">
+          <a *ngFor="let link of project.links" href="{{ link.url }}" target="_blank">
+            <img src="{{ link.iconSvg }}" alt="{{ link.name }}">
+          </a>
+        </div>
+      </div>
+    </section>
+  </div>
+  <section>
+    <h3>Stacks</h3>
+    <ul class="stacks grid">
+      <li *ngFor="let stack of stacksImage">
+        <img src="{{ stack }}" alt="{{ stack }}">
+      </li>
+    </ul>
+  </section>
+</div>
