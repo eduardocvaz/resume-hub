@@ -12,7 +12,7 @@
       "This project is a comprehensive platform aimed at providing extensive insights into my career in the development field, acting as an augmented version of my resume. Its primary focus lies in showcasing and reinforcing my proficiency in the Angular framework. Through a user-friendly interface, visitors can seamlessly navigate through my projects, experiences, and skills.",
       "The platform serves as a valuable resource for employers and colleagues interested in understanding my background and contributions. By offering transparent access to my projects and expertise, it facilitates informed decision-making and fosters meaningful professional connections."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/resume.jpg",
+    "imageUrl": "/assets/portifolio/resumeHub.png",
     "link": "https://www.resume.eduardovaz.dev/home",
     "links": [
       {
@@ -36,7 +36,7 @@
       "This project serves as a versatile platform aimed at showcasing my professional profile in both Portuguese and English languages. It incorporates an interactive resume, meticulously curated to underscore my diverse skill set and extensive professional background. Leveraging the React framework, the platform ensures a seamless and engaging user experience.",
       "Visitors to the platform are provided with the flexibility to download either the Portuguese or English version of my resume in PDF format. This feature facilitates quick and convenient access to my credentials, enabling potential employers or collaborators to review my qualifications with ease."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/cv.jpg",
+    "imageUrl": "/assets/portifolio/curriculo.png",
     "links": [
       {
         "name": "WebSite",
@@ -59,7 +59,7 @@
       "Embarking on a journey through the intricate landscape of technology, this project stands as a testament to the relentless pursuit of knowledge and innovation. Crafted with precision and ingenuity, it takes the form of a personal blog meticulously developed using the powerful combination of Vue.js and Strapi, two cutting-edge technologies that epitomize the spirit of modern web development.\n\n",
       "At its core, this digital sanctuary serves as a beacon for tech aficionados and industry professionals alike, offering a treasure trove of articles, insights, and discoveries meticulously curated to illuminate the latest trends, breakthroughs, and invaluable tips shaping the contemporary technological landscape."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/blog.jpg",
+    "imageUrl": "/assets/portifolio/blog.png",
     "links": [
       {
         "name": "WebSite",
@@ -82,7 +82,7 @@
       "I designed and developed FlixMania, a dynamic website dedicated to promoting a premier streaming platform tailored for Brazilian audiences. FlixMania serves as the digital gateway to an expansive array of entertainment options, including channels, movies, and series, curated to cater to the diverse tastes of Brazilian users.",
       "Built exclusively with Bootstrap, FlixMania's website boasts a modern and responsive design, ensuring seamless navigation and an optimal viewing experience across various devices. The platform showcases the richness and variety of content available on the streaming service, enticing visitors with captivating visuals and compelling descriptions."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/flixmania.jpg",
+    "imageUrl": "/assets/portifolio/flixmania.png",
     "links": [
       {
         "name": "WebSite",
