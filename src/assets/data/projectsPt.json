@@ -12,7 +12,7 @@
       "Este projeto é uma plataforma abrangente destinada a fornecer insights extensivos sobre minha carreira no campo do desenvolvimento, atuando como uma versão ampliada do meu currículo. Seu foco principal reside em demonstrar e reforçar minha proficiência no framework Angular. Através de uma interface amigável, os visitantes podem navegar facilmente pelos meus projetos, experiências e habilidades.",
       "A plataforma serve como um recurso valioso para empregadores e colegas interessados em entender minha trajetória e contribuições. Ao oferecer acesso transparente aos meus projetos e expertise, facilita a tomada de decisões informadas e promove conexões profissionais significativas."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/resume.jpg",
+    "imageUrl": "/assets/portifolio/resumeHub.png",
     "links": [
       {
         "name": "WebSite",
@@ -35,7 +35,7 @@
       "Este projeto funciona como uma plataforma versátil destinada a mostrar meu perfil profissional tanto em português quanto em inglês. Ele incorpora um currículo interativo, meticulosamente elaborado para destacar minha diversidade de habilidades e extenso histórico profissional. Aproveitando o framework React, a plataforma garante uma experiência de usuário fluída e envolvente.",
       "Os visitantes da plataforma têm a flexibilidade de baixar tanto a versão em português quanto em inglês do meu currículo em formato PDF. Essa funcionalidade facilita o acesso rápido e conveniente às minhas credenciais, permitindo que potenciais empregadores ou colaboradores revisem minhas qualificações com facilidade."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/cv.jpg",
+    "imageUrl": "/assets/portifolio/curriculo.png",
     "links": [
       {
         "name": "WebSite",
@@ -58,7 +58,7 @@
       "Embarcando em uma jornada pelo intricado cenário da tecnologia, este projeto se apresenta como um testemunho da busca incessante por conhecimento e inovação. Elaborado com precisão e engenhosidade, ele assume a forma de um blog pessoal meticulosamente desenvolvido usando a poderosa combinação de Vue.js e Strapi, duas tecnologias de ponta que epitomizam o espírito do desenvolvimento web moderno.\n\n",
       "Em seu cerne, este santuário digital serve como um farol para aficionados por tecnologia e profissionais da indústria, oferecendo um tesouro de artigos, insights e descobertas meticulosamente elaborados para iluminar as últimas tendências, avanços e dicas valiosas que moldam o cenário tecnológico contemporâneo."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/blog.jpg",
+    "imageUrl": "/assets/portifolio/blog.png",
     "links": [
       {
         "name": "WebSite",
@@ -81,7 +81,7 @@
       "Eu projetei e desenvolvi o FlixMania, um site dinâmico dedicado a promover uma plataforma de streaming de primeira linha voltada para o público brasileiro. O FlixMania serve como o portal digital para uma ampla variedade de opções de entretenimento, incluindo canais, filmes e séries, selecionados para atender aos diversos gostos dos usuários brasileiros.",
       "Construído exclusivamente com Bootstrap, o site do FlixMania possui um design moderno e responsivo, garantindo uma navegação sem problemas e uma experiência de visualização ideal em diversos dispositivos. A plataforma exibe a riqueza e variedade de conteúdo disponível no serviço de streaming, cativando os visitantes com visuais envolventes e descrições convincentes."
     ],
-    "imageUrl": "https://www.imagesync.eduardovaz.dev/images/flixmania.jpg",
+    "imageUrl": "/assets/portifolio/flixmania.png",
     "links": [
       {
         "name": "WebSite",
