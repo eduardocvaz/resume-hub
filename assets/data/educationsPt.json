@@ -1,6 +1,33 @@
 [
   {
     "name": "Universidade Federal do Rio Grande do Norte",
+    "date": " 2023 - (Em andamento)",
+    "degree": "Bacharelado, Engenharia de Software",
+    "location": "Natal/RN, Brasil",
+    "summary": "Este curso altamente especializado visa preparar os alunos para o mercado de trabalho, fornecendo uma sólida formação em matemática e programação. Abrange conceitos essenciais para estabelecer uma base robusta, equipando os alunos para enfrentar os desafios do desenvolvimento de software e ter sucesso em suas carreiras.",
+    "fullContent": [
+      "Este curso altamente especializado visa preparar os alunos para o mercado de trabalho, fornecendo uma sólida formação em matemática e programação. Abrange conceitos essenciais para estabelecer uma base robusta, equipando os alunos para enfrentar os desafios do desenvolvimento de software e ter sucesso em suas carreiras.",
+      "",
+      "Durante o curso, os alunos adquirem conhecimentos abrangentes em diversas áreas, incluindo:"
+    ],
+    "fullContentLi": [
+      ["Design de Interfaces de Usuário", ""],
+      ["Desenvolvimento Web (Nível I e II)", ""],
+      ["Teoria de Grafos", ""],
+      ["Lógica na Engenharia de Software", ""],
+      ["Programação Concorrente", ""],
+      ["Engenharia de Linguagens de Programação", ""],
+      ["Métodos Formais em Engenharia de Software", ""],
+      ["Desenvolvimento de Sistemas Distribuídos", ""],
+      ["Engenharia de Requisitos", ""],
+      ["Testes de Software Avançados", ""],
+      ["Arquitetura de Software", ""],
+      ["Gerenciamento de Configuração e Mudanças", ""]
+    ],
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  },
+  {
+    "name": "Universidade Federal do Rio Grande do Norte",
     "date": " 2023 - 2024",
     "degree": "Pós-graduação - Residência em Tecnologia da Informação",
     "location": "Natal/RN - Recife/PE, Brasil",
@@ -23,33 +50,6 @@
       ["Desenvolvimento para Dispositivos Móveis", ""],
       ["Gerência de Configuração e Teste de Software", ""],
       ["DevOps", ""]
-    ],
-    "imageURL": "/assets/images/Institutions/ufrn.png"
-  },
-  {
-    "name": "Universidade Federal do Rio Grande do Norte",
-    "date": " 2023 - 2025",
-    "degree": "Bacharelado, Engenharia de Software",
-    "location": "Natal/RN, Brasil",
-    "summary": "Este curso altamente especializado visa preparar os alunos para o mercado de trabalho, fornecendo uma sólida formação em matemática e programação. Abrange conceitos essenciais para estabelecer uma base robusta, equipando os alunos para enfrentar os desafios do desenvolvimento de software e ter sucesso em suas carreiras.",
-    "fullContent": [
-      "Este curso altamente especializado visa preparar os alunos para o mercado de trabalho, fornecendo uma sólida formação em matemática e programação. Abrange conceitos essenciais para estabelecer uma base robusta, equipando os alunos para enfrentar os desafios do desenvolvimento de software e ter sucesso em suas carreiras.",
-      "",
-      "Durante o curso, os alunos adquirem conhecimentos abrangentes em diversas áreas, incluindo:"
-    ],
-    "fullContentLi": [
-      ["Design de Interfaces de Usuário", ""],
-      ["Desenvolvimento Web (Nível I e II)", ""],
-      ["Teoria de Grafos", ""],
-      ["Lógica na Engenharia de Software", ""],
-      ["Programação Concorrente", ""],
-      ["Engenharia de Linguagens de Programação", ""],
-      ["Métodos Formais em Engenharia de Software", ""],
-      ["Desenvolvimento de Sistemas Distribuídos", ""],
-      ["Engenharia de Requisitos", ""],
-      ["Testes de Software Avançados", ""],
-      ["Arquitetura de Software", ""],
-      ["Gerenciamento de Configuração e Mudanças", ""]
     ],
     "imageURL": "/assets/images/Institutions/ufrn.png"
   },

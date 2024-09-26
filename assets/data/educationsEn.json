@@ -1,6 +1,33 @@
 [
   {
     "name": "Federal University of Rio Grande do Norte",
+    "date": " 2023 - (In progress)",
+    "degree": "Bachelor's, Software Engineering",
+    "location": "Natal/RN, Brazil",
+    "summary": "This highly specialized program aims to prepare students for the job market by providing a strong foundation in mathematics and programming. It covers essential concepts to establish a solid base, equipping students to tackle software development challenges and succeed in their careers.",
+    "fullContent": [
+      "This highly specialized program aims to prepare students for the job market by providing a strong foundation in mathematics and programming. It covers essential concepts to establish a solid base, equipping students to tackle software development challenges and succeed in their careers.",
+      "",
+      "During the program, students gain comprehensive knowledge in various areas, including:"
+    ],
+    "fullContentLi": [
+      ["User Interface Design", ""],
+      ["Web Development (Level I and II)", ""],
+      ["Graph Theory", ""],
+      ["Logic in Software Engineering", ""],
+      ["Concurrent Programming", ""],
+      ["Programming Language Engineering", ""],
+      ["Formal Methods in Software Engineering", ""],
+      ["Distributed Systems Development", ""],
+      ["Requirements Engineering", ""],
+      ["Advanced Software Testing", ""],
+      ["Software Architecture", ""],
+      ["Configuration and Change Management", ""]
+    ],
+    "imageURL": "/assets/images/Institutions/ufrn.png"
+  },
+  {
+    "name": "Federal University of Rio Grande do Norte",
     "date": " 2023 - 2024",
     "degree": "Postgraduate - Information Technology Residency",
     "location": "Natal/RN - Recife/PE, Brazil",
@@ -25,33 +52,6 @@
       ["DevOps", ""]
     ]
   ,
-    "imageURL": "/assets/images/Institutions/ufrn.png"
-  },
-  {
-    "name": "Federal University of Rio Grande do Norte",
-    "date": " 2023 - 2025",
-    "degree": "Bachelor's, Software Engineering",
-    "location": "Natal/RN, Brazil",
-    "summary": "This highly specialized program aims to prepare students for the job market by providing a strong foundation in mathematics and programming. It covers essential concepts to establish a solid base, equipping students to tackle software development challenges and succeed in their careers.",
-    "fullContent": [
-      "This highly specialized program aims to prepare students for the job market by providing a strong foundation in mathematics and programming. It covers essential concepts to establish a solid base, equipping students to tackle software development challenges and succeed in their careers.",
-      "",
-      "During the program, students gain comprehensive knowledge in various areas, including:"
-    ],
-    "fullContentLi": [
-      ["User Interface Design", ""],
-      ["Web Development (Level I and II)", ""],
-      ["Graph Theory", ""],
-      ["Logic in Software Engineering", ""],
-      ["Concurrent Programming", ""],
-      ["Programming Language Engineering", ""],
-      ["Formal Methods in Software Engineering", ""],
-      ["Distributed Systems Development", ""],
-      ["Requirements Engineering", ""],
-      ["Advanced Software Testing", ""],
-      ["Software Architecture", ""],
-      ["Configuration and Change Management", ""]
-    ],
     "imageURL": "/assets/images/Institutions/ufrn.png"
   },
   {
