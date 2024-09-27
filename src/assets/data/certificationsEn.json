@@ -1,4 +1,28 @@
 {
+  "diplomas": [
+    {
+      "name": "Specialist in Information Technology",
+      "location": "UFRN",
+      "summary": "",
+      "pdfUrl": "https://sigaa.ufrn.br/sigaa/diplomadigital",
+      "imageUrl": "/assets/certifications/diploma_especialista.png",
+      "description": [
+        "A Post-Graduate Lato Sensu degree, offered in partnership with the Federal Regional Court of the 5th Region, aims to provide an enriching practical experience in Information Technology and Software Development. Participants undergo a rigorous program that covers advanced and applied topics in technology and software.",
+        "Diploma in the process of being issued"
+      ]
+    },
+    {
+      "name": "Bachelor's Degree in Information Technology",
+      "location": "UFRN",
+      "summary": "",
+      "pdfUrl": "https://sigaa.ufrn.br/sigaa/diplomadigital",
+      "imageUrl": "/assets/certifications/diploma_20170133025.png",
+      "description": [
+        "The course aims to provide students with a solid foundation in mathematics and programming, covering all essential concepts to establish a robust base, preparing them both to enter the job market and to pursue successful academic careers.",
+        "Verify the authenticity of this diploma by accessing https://sigaa.ufrn.br/sigaa/diplomadigital and entering the verification code: 570.570.5f95d518d75b"
+      ]
+    }
+  ],
   "certifications":
   [
     {
@@ -16,7 +40,7 @@
   ],
   "certificates": [
     {
-      "name": "Modern Web Development with JavaScript 2020 COMPLETE + Projects",
+      "name": "Desenvolvimento Web Moderno com JavaScript 2020 COMPLETO + Projetos",
       "location": "Cod3r",
       "summary": "A comprehensive course in web development with JavaScript, covering everything from the fundamentals to advanced technologies, including Angular, React, and Vue.",
       "pdfUrl": "https://www.udemy.com/certificate/UC-95979a44-d6b3-4e2f-a072-9d802ce325eb/",
@@ -24,6 +48,70 @@
       "description": [
         "This course covered everything from fundamental programming concepts, JavaScript, HTML5, and CSS3 to advanced technologies like Node.js, Gulp, Webpack, jQuery, Bootstrap, React, Vue JS, ExpressJS, MySQL, MongoDB, and Electron.",
         "Throughout the course, we explored both frontend and backend development, understanding the main programming paradigms used in Modern Web Development, such as Functional and Object-Oriented."
+      ]
+    },
+    {
+      "name": "Python & MySQL",
+      "location": "Alfahelix Treinamentos",
+      "summary": "This course provides an introduction to the Python programming language and the MySQL database management system, teaching how to create programs that interact with databases.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-f8b187c2-060d-409b-809c-14fcacac936a/",
+      "imageUrl": "/assets/certifications/alfahelix-python-mysql.jpg",
+      "description": [
+        "The course covers the fundamentals of the Python language, including syntax, data structures, and control flow.",
+        "It also explores the basic concepts of MySQL, such as creating tables, inserting, querying, and updating data.",
+        "Upon completion, students will be able to develop simple Python programs that connect to a MySQL database to perform basic operations."
+      ]
+    },
+    {
+      "name": "Web Design: Construa Sites com PHP, HTML, CSS e JavaScript",
+      "location": "Alfahelix Treinamentos",
+      "summary": "This course covers the fundamentals of web development, teaching how to create dynamic and responsive websites using HTML, CSS, JavaScript, and PHP.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-9844da63-6629-4d39-9e82-68048cacf814/",
+      "imageUrl": "/assets/certifications/alfahelix-web-design.jpg",
+      "description": [
+        "The course introduces the concepts of front-end and back-end, explaining how the different languages complement each other in building a website.",
+        "On the front-end, you will learn how to structure pages with HTML, style them with CSS, and add interactivity with JavaScript, also using the Bootstrap framework.",
+        "On the back-end, you will be introduced to the fundamentals of the PHP language, allowing you to create websites with more advanced features and interaction with the server."
+      ]
+    },
+    {
+      "name": "ChatGPT Mastery: From Creative Writing to Coding Solutions",
+      "location": "Mehmood Khalil",
+      "summary": "This comprehensive course explores the diverse applications of ChatGPT, from creating written content to solving programming problems.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-5b810cb3-e661-4f2d-b142-af3207afbca7/",
+      "imageUrl": "/assets/certifications/chatgpt-mastery.jpg",
+      "description": [
+        "The course begins with an introduction to ChatGPT, explaining its features and how to get started using it.",
+        "Next, it covers the use of ChatGPT to improve writing in different formats, such as emails, ads, blog posts, social media content, and website copy.",
+        "It also explores the creation of specialized content, including course outlines, resumes, contracts, and cover letters.",
+        "Finally, the course demonstrates how ChatGPT can assist in learning programming, solving code problems, and debugging.",
+        "Throughout the course, practical examples and exercises are provided to reinforce learning."
+      ]
+    },
+    {
+      "name": "2024 Complete SQL Bootcamp from Zero to Hero in SQL",
+      "location": "Toppers Bootcamp",
+      "summary": "This comprehensive course teaches SQL from basic concepts to advanced topics, focusing on practical applications and developing data analysis skills.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-7fc4d292-38c6-4fa5-b906-ec0a83378ad7/",
+      "imageUrl": "/assets/certifications/sql-bootcamp.jpg",
+      "description": [
+        "The course begins with an introduction to DBeaver, a popular tool for working with SQL.",
+        "Next, it covers the basic syntax of SQL, including commands for querying, inserting, updating, and deleting data.",
+        "Students will learn how to analyze data using aggregate functions and grouping, as well as perform advanced queries with string and comparison operations.",
+        "The course is aimed at professionals who want to improve their data analysis skills and use SQL in their careers, including business analysts, data scientists, and developers."
+      ]
+    },
+    {
+      "name": "Presentation Skills: Insurance Your Next Speech Will be Good",
+      "location": "TJ Walker",
+      "summary": "This course teaches techniques to prepare and deliver speeches, lectures, and presentations in an effective, memorable, and professional manner.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-76db496d-9ca6-4171-b3e8-bec5e6b316d9/",
+      "imageUrl": "/assets/certifications/presentation-skills.jpg",
+      "description": [
+        "The course offers a step-by-step method for creating and practicing presentations, focusing on clear and concise communication of the main message.",
+        "The instructor, a presentation coach with 30 years of experience, shares his most effective techniques for improving public speaking skills.",
+        "The course addresses the importance of prioritizing audience understanding and memorization rather than focusing on overly detailed slides.",
+        "Students will learn how to minimize risks and increase confidence in their presentations by adopting a strategic and focused approach."
       ]
     }
   ]

@@ -6,6 +6,7 @@ import {TranslateService} from "@ngx-translate/core";
 import {LanguageService} from "../../language.service";
 import {Certifications} from "./model/certifications.model";
 import {Certificate} from "../../components/certification-entry/model/certificate.model";
+import {Diploma} from "../../components/certification-entry/model/diploma.model";
 
 @Component({
   selector: 'app-certifications',
@@ -15,6 +16,7 @@ import {Certificate} from "../../components/certification-entry/model/certificat
 export class CertificationsComponent {
   certification: Certification[] = [];
   certificate: Certificate[] = [];
+  diploma: Diploma[] = [];
   baseUrl = environment.baseUrl;
 
   constructor(
@@ -35,6 +37,7 @@ export class CertificationsComponent {
     await this.http.get<Certifications>(this.baseUrl + jsonFile).subscribe((data) => {
       this.certification = data.certifications;
       this.certificate = data.certificates;
+      this.diploma = data.diplomas;
     });
   }
 }

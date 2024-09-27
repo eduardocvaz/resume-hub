@@ -1,4 +1,17 @@
 <div class="mb-4">
+  <p-fieldset legend="{{ 'certifications.diploma.title' | translate }}" styleClass="shadow-6">
+    <div>
+      <span>{{ 'certifications.diploma.intro' | translate }}</span>
+      <span><br>{{ 'certifications.diploma.explore' | translate }}</span>
+    </div>
+  </p-fieldset>
+</div>
+<p-card>
+  <div *ngFor="let certi of diploma">
+    <app-certification-entry [certification]="certi"></app-certification-entry>
+  </div>
+</p-card>
+<div class="mb-4 mt-4">
   <p-fieldset legend="{{ 'certifications.certification.title' | translate }}" styleClass="shadow-6">
     <div>
       <span>{{ 'certifications.certification.intro' | translate }}</span>
