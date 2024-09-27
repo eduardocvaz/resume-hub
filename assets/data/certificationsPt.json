@@ -1,4 +1,29 @@
 {
+
+  "diplomas": [
+    {
+      "name": "Especialista em Tecnologia da Informação",
+      "location": "UFRN",
+      "summary": "Um curso abrangente de desenvolvimento web com JavaScript, abrangendo desde os fundamentos até tecnologias avançadas, incluindo Angular, React e Vue.",
+      "pdfUrl": "https://sigaa.ufrn.br/sigaa/diplomadigital",
+      "imageUrl": "/assets/certifications/diploma_especialista.png",
+      "description": [
+        "Uma Pós-graduação Lato Sensu, oferecido em parceria com o Tribunal Regional Federal da 5ª Região, tem como objetivo proporcionar uma experiência prática enriquecedora em Tecnologia da Informação e Desenvolvimento de Software. Os participantes passam por um programa rigoroso que abrange tópicos avançados e aplicados em tecnologia e software.",
+        "Diploma em processo de emissão"
+      ]
+    },
+    {
+      "name": "Bacharelado em Tecnologia da Informação",
+      "location": "UFRN",
+      "summary": "Um curso abrangente de desenvolvimento web com JavaScript, abrangendo desde os fundamentos até tecnologias avançadas, incluindo Angular, React e Vue.",
+      "pdfUrl": "https://sigaa.ufrn.br/sigaa/diplomadigital",
+      "imageUrl": "/assets/certifications/diploma_20170133025.png",
+      "description": [
+        "O curso tem como objetivo fornecer uma sólida formação em matemática e programação aos alunos, abrangendo todos os conceitos essenciais para estabelecer uma base robusta, preparando-os tanto para ingressar no mercado de trabalho quanto para seguir carreiras acadêmicas de sucesso.",
+        "Verifique a autenticidade deste diploma acessando https://sigaa.ufrn.br/sigaa/diplomadigital informando o código de verificação: 570.570.5f95d518d75b"
+      ]
+    }
+  ],
   "certifications": [
     {
       "name": "Scrum Fundamentals Certified (SFC™)",
@@ -23,6 +48,70 @@
       "description": [
         "Este curso abrangeu desde conceitos fundamentais de programação, JavaScript, HTML5 e CSS3 até tecnologias avançadas como Node.js, Gulp, Webpack, jQuery, Bootstrap, React, Vue JS, ExpressJS, MySQL, MongoDB e Electron.",
         "Ao longo do curso, exploramos o desenvolvimento tanto de frontend quanto de backend, compreendendo os principais paradigmas de programação usados na Web Moderna, como Funcional e Orientação a Objetos."
+      ]
+    },
+    {
+      "name": "Python & MySQL",
+      "location": "Alfahelix Treinamentos",
+      "summary": "Este curso oferece uma introdução à linguagem de programação Python e ao sistema de gerenciamento de banco de dados MySQL, ensinando como criar programas que interagem com bases de dados.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-f8b187c2-060d-409b-809c-14fcacac936a/",
+      "imageUrl": "/assets/certifications/alfahelix-python-mysql.jpg",
+      "description": [
+        "O curso aborda os fundamentos da linguagem Python, incluindo sintaxe, estruturas de dados e controle de fluxo.",
+        "Também explora os conceitos básicos do MySQL, como criação de tabelas, inserção, consulta e atualização de dados.",
+        "Ao final, os alunos serão capazes de desenvolver programas Python simples que se conectam a um banco de dados MySQL para realizar operações básicas."
+      ]
+    },
+    {
+      "name": "Web Design: Construa Sites com PHP, HTML, CSS e JavaScript",
+      "location": "Alfahelix Treinamentos",
+      "summary": "Este curso abrange os fundamentos do desenvolvimento web, ensinando a criar sites dinâmicos e responsivos utilizando as linguagens HTML, CSS, JavaScript e PHP.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-9844da63-6629-4d39-9e82-68048cacf814/",
+      "imageUrl": "/assets/certifications/alfahelix-web-design.jpg",
+      "description": [
+        "O curso introduz os conceitos de front-end e back-end, explicando como as diferentes linguagens se complementam na construção de um site.",
+        "No front-end, você aprenderá a estruturar páginas com HTML, estilizá-las com CSS e adicionar interatividade com JavaScript, utilizando também o framework Bootstrap.",
+        "No back-end, você será apresentado aos fundamentos da linguagem PHP, permitindo criar sites com funcionalidades mais avançadas e interação com o servidor."
+      ]
+    },
+    {
+      "name": "ChatGPT Mastery: From Creative Writing to Coding Solutions",
+      "location": "Mehmood Khalil",
+      "summary": "Este curso abrangente explora as diversas aplicações do ChatGPT, desde a criação de conteúdo escrito até a resolução de problemas de programação.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-5b810cb3-e661-4f2d-b142-af3207afbca7/",
+      "imageUrl": "/assets/certifications/chatgpt-mastery.jpg",
+      "description": [
+        "O curso começa com uma introdução ao ChatGPT, explicando seus recursos e como começar a utilizá-lo.",
+        "Em seguida, aborda o uso do ChatGPT para aprimorar a escrita em diferentes formatos, como e-mails, anúncios, posts de blog, conteúdo de redes sociais e textos para websites.",
+        "Também explora a criação de conteúdo especializado, incluindo roteiros de curso, currículos, contratos e cartas de apresentação.",
+        "Por fim, o curso demonstra como o ChatGPT pode auxiliar no aprendizado de programação, na resolução de problemas de código e na depuração.",
+        "Ao longo do curso, são fornecidos exemplos práticos e exercícios para consolidar o aprendizado."
+      ]
+    },
+    {
+      "name": "2024 Complete SQL Bootcamp from Zero to Hero in SQL",
+      "location": "Toppers Bootcamp",
+      "summary": "Este curso abrangente ensina SQL desde os conceitos básicos até tópicos avançados, com foco em aplicações práticas e desenvolvimento de habilidades para análise de dados.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-7fc4d292-38c6-4fa5-b906-ec0a83378ad7/",
+      "imageUrl": "/assets/certifications/sql-bootcamp.jpg",
+      "description": [
+        "O curso começa com uma introdução ao DBeaver, uma ferramenta popular para trabalhar com SQL.",
+        "Em seguida, aborda a sintaxe básica do SQL, incluindo comandos para consulta, inserção, atualização e exclusão de dados.",
+        "O aluno aprenderá a analisar dados usando funções de agregação e agrupamento, além de realizar consultas avançadas com operações de string e comparação.",
+        "O curso é voltado para profissionais que desejam aprimorar suas habilidades em análise de dados e utilizar SQL em suas carreiras, incluindo analistas de negócios, cientistas de dados e desenvolvedores."
+      ]
+    },
+    {
+      "name": "Presentation Skills: Insurance Your Next Speech Will be Good",
+      "location": "TJ Walker",
+      "summary": "Este curso ensina técnicas para preparar e apresentar discursos, palestras e apresentações de forma eficaz, memorável e profissional.",
+      "pdfUrl": "https://www.udemy.com/certificate/UC-76db496d-9ca6-4171-b3e8-bec5e6b316d9/",
+      "imageUrl": "/assets/certifications/presentation-skills.jpg",
+      "description": [
+        "O curso oferece um método passo a passo para criar e praticar apresentações, com foco na comunicação clara e concisa da mensagem principal.",
+        "O instrutor, um coach de apresentações com 30 anos de experiência, compartilha suas técnicas mais eficazes para aprimorar as habilidades de comunicação em público.",
+        "O curso aborda a importância de priorizar a compreensão e a memorização do público em vez de se concentrar em slides excessivamente detalhados.",
+        "Os alunos aprenderão a minimizar os riscos e a aumentar a confiança em suas apresentações, adotando uma abordagem estratégica e focada."
       ]
     }
   ]
