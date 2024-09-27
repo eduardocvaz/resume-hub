@@ -1,10 +1,44 @@
 [
   {
+    "name": "Plataforma SuperProf",
+    "link": "https://www.superprof.com.br/ola-sou-eduardo-atualmente-curso-engenharia-software-ufrn-trabalho-atualmente-como-desenvolvedor-software-uma-empresa.html",
+    "linkName": "Meu Perfil",
+    "date": " (05/2022 - atualmente)",
+    "degree": "Embaixador - Professor de Programação",
+    "location": "Remoto - PT/EN",
+    "summary": "Como Professor de Programação na Plataforma Superprof, adquiri e aprimorei habilidades cruciais de ensino e comunicação. Minha função envolveu a instrução de alunos de diversos níveis e origens, incluindo diferentes estados e países. Além disso, tive a oportunidade de explorar uma variedade de tecnologias de programação e desenvolver habilidades essenciais, como a comunicação assertiva, negociação direta com clientes e uma didática adaptável.",
+    "fullContent": [
+      "Como Professor de Programação na Plataforma Superprof, adquiri e aprimorei habilidades cruciais de ensino e comunicação. Minha função envolveu a instrução de alunos de diversos níveis e origens, incluindo diferentes estados e países. Além disso, tive a oportunidade de explorar uma variedade de tecnologias de programação e desenvolver habilidades essenciais, como a comunicação assertiva, negociação direta com clientes e uma didática adaptável.",
+      "Principais Competências Desenvolvidas:"
+    ],
+    "fullContentLi": [
+      ["Comunicação e Habilidades Interpessoais:",
+        "A capacidade de comunicação clara e eficaz, adquirida no ensino, é igualmente valiosa na programação, onde a colaboração com colegas, a compreensão de requisitos do cliente e a explicação de soluções são essenciais."],
+      ["Ensino e Explicação de Conceitos Complexos:",
+        "A experiência em explicar conceitos complexos de forma simples e compreensível, adquirida no ensino, é valiosa ao explicar código a colegas e clientes no desenvolvimento de software."],
+      ["Paciência e Empatia:",
+        "A habilidade de lidar com desafios no ensino, desenvolvendo paciência e empatia, é útil ao trabalhar em equipe ou ao enfrentar problemas complexos no desenvolvimento de software."],
+      ["Conhecimento Profundo da Programação:",
+        "A sólida compreensão das linguagens de programação, algoritmos e paradigmas, adquirida como professor, é diretamente aplicável ao desenvolvimento de software para criar soluções eficazes."],
+      ["Habilidade de Solução de Problemas:",
+        "A capacidade de identificar e resolver problemas, adquirida no ensino, é fundamental na programação, onde a análise, o desenvolvimento de soluções e a depuração são essenciais."],
+      ["Adaptação a Diferentes Públicos:",
+        "A habilidade de adaptar seu estilo de ensino para diferentes alunos é valiosa ao trabalhar com equipes multidisciplinares ou em projetos com partes interessadas diversas."],
+      ["Gerenciamento de Tempo e Organização:",
+        "A gestão do tempo e organização, desenvolvidas ao equilibrar o ensino com outras responsabilidades, são cruciais para cumprir prazos e gerenciar projetos de software."],
+      ["Aprendizado Contínuo:",
+        "O compromisso com o aprendizado contínuo, necessário no ensino de programação, é uma qualidade valiosa para um desenvolvedor de software, onde a tecnologia está em constante evolução."],
+      ["Feedback e Melhoria Contínua:",
+        "A prática de receber feedback de alunos e ajustar a abordagem de ensino se aplica ao desenvolvimento de software, onde a melhoria contínua é essencial."]
+    ],
+    "imageURL": "/assets/images/Institutions/superprof.png"
+  },
+  {
     "name": "Tribunal Regional Federal da 5ª Região",
     "link": "https://residenciaregional.jfrn.jus.br/index.php/eduardo-c-vaz/",
     "linkName": "Meu Perfil",
-    "date": " 2023 - atualmente",
-    "degree": "Desenvolvedor de Software",
+    "date": " (02/2023 - 09/2024)",
+    "degree": "Desenvolvedor FullStack",
     "location": "Natal/RN - Recife/PE, Brasil",
     "summary": "Como Residente em TI, minha experiência no Tribunal Regional Federal da 5ª Região (TRF5) tem sido uma jornada enriquecedora e desafiadora. Atuando como desenvolvedor de software, tenho desempenhado um papel fundamental na equipe, contribuindo para o desenvolvimento de soluções tecnológicas que apoiam o sistema jurídico. ",
     "fullContent": [
@@ -36,42 +70,8 @@
     "imageURL": "/assets/images/Institutions/trf5.png"
   },
   {
-    "name": "Plataforma SuperProf",
-    "link": "https://www.superprof.com.br/ola-sou-eduardo-atualmente-curso-engenharia-software-ufrn-trabalho-atualmente-como-desenvolvedor-software-uma-empresa.html",
-    "linkName": "Meu Perfil",
-    "date": " 2022 - atualmente",
-    "degree": "Professor de Programação",
-    "location": "Remoto - PT/EN",
-    "summary": "Como Professor de Programação na Plataforma Superprof, adquiri e aprimorei habilidades cruciais de ensino e comunicação. Minha função envolveu a instrução de alunos de diversos níveis e origens, incluindo diferentes estados e países. Além disso, tive a oportunidade de explorar uma variedade de tecnologias de programação e desenvolver habilidades essenciais, como a comunicação assertiva, negociação direta com clientes e uma didática adaptável.",
-    "fullContent": [
-      "Como Professor de Programação na Plataforma Superprof, adquiri e aprimorei habilidades cruciais de ensino e comunicação. Minha função envolveu a instrução de alunos de diversos níveis e origens, incluindo diferentes estados e países. Além disso, tive a oportunidade de explorar uma variedade de tecnologias de programação e desenvolver habilidades essenciais, como a comunicação assertiva, negociação direta com clientes e uma didática adaptável.",
-      "Principais Competências Desenvolvidas:"
-    ],
-    "fullContentLi": [
-      ["Comunicação e Habilidades Interpessoais:",
-        "A capacidade de comunicação clara e eficaz, adquirida no ensino, é igualmente valiosa na programação, onde a colaboração com colegas, a compreensão de requisitos do cliente e a explicação de soluções são essenciais."],
-      ["Ensino e Explicação de Conceitos Complexos:",
-        "A experiência em explicar conceitos complexos de forma simples e compreensível, adquirida no ensino, é valiosa ao explicar código a colegas e clientes no desenvolvimento de software."],
-      ["Paciência e Empatia:",
-        "A habilidade de lidar com desafios no ensino, desenvolvendo paciência e empatia, é útil ao trabalhar em equipe ou ao enfrentar problemas complexos no desenvolvimento de software."],
-      ["Conhecimento Profundo da Programação:",
-        "A sólida compreensão das linguagens de programação, algoritmos e paradigmas, adquirida como professor, é diretamente aplicável ao desenvolvimento de software para criar soluções eficazes."],
-      ["Habilidade de Solução de Problemas:",
-        "A capacidade de identificar e resolver problemas, adquirida no ensino, é fundamental na programação, onde a análise, o desenvolvimento de soluções e a depuração são essenciais."],
-      ["Adaptação a Diferentes Públicos:",
-        "A habilidade de adaptar seu estilo de ensino para diferentes alunos é valiosa ao trabalhar com equipes multidisciplinares ou em projetos com partes interessadas diversas."],
-      ["Gerenciamento de Tempo e Organização:",
-        "A gestão do tempo e organização, desenvolvidas ao equilibrar o ensino com outras responsabilidades, são cruciais para cumprir prazos e gerenciar projetos de software."],
-      ["Aprendizado Contínuo:",
-        "O compromisso com o aprendizado contínuo, necessário no ensino de programação, é uma qualidade valiosa para um desenvolvedor de software, onde a tecnologia está em constante evolução."],
-      ["Feedback e Melhoria Contínua:",
-        "A prática de receber feedback de alunos e ajustar a abordagem de ensino se aplica ao desenvolvimento de software, onde a melhoria contínua é essencial."]
-    ],
-    "imageURL": "/assets/images/Institutions/superprof.png"
-  },
-  {
     "name": "Quark Tecnologia - QuarkClinic",
-    "date": " 2021 - 2022",
+    "date": " (02/2021 - 12/2022)",
     "degree": "Desenvolvedor FullStack - Estágio",
     "location": "Natal, Rio Grande do Norte, Brasil",
     "summary": "Como estagiário FullStack na Quark Tecnologia, atuei na plataforma QuarkClinic, envolvendo diversos projetos que abarcavam tecnologias como Angular, Vue.js, Spring, Groovy e Kotlin. Minhas responsabilidades englobaram resolução de problemas em produção, validação interna, aprimoramento de funcionalidades e refatoração de códigos.",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Centro de Biociências - UFRN",
-    "date": " 2018 - 2021",
+    "date": " (02/2018 - 02/2021)",
     "degree": "Bolsista de Apoio Técnico",
     "location": "Natal, Rio Grande do Norte, Brasil",
     "summary": "Como bolsista no Centro de Biociências, desenvolvi habilidades técnicas em manutenção de computadores e sistemas operacionais, aprimorando resolução de problemas e comunicação. Aprendi gestão de tempo, documentação e trabalho em equipe para garantir a operação eficiente de sistemas e equipamentos.",
